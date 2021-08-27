@@ -1,0 +1,1101 @@
+{
+    "lens_id": "",
+    "document_id": "A2iYIu53LWCrslBzZWTN",
+    "original_document_id": "A2iYIu53LWCrslBzZWTN",
+    "version": "28",
+    "lastChanged": "1628894860089",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Eye Assets"
+                    ],
+                    [
+                        "Eye Assets",
+                        "Choroid"
+                    ],
+                    [
+                        "Eye Assets",
+                        "Materials"
+                    ],
+                    [
+                        "Eye Assets",
+                        "Materials",
+                        "Choroid Default"
+                    ],
+                    [
+                        "Eye Assets",
+                        "Materials",
+                        "Sclera Default"
+                    ],
+                    [
+                        "Eye Assets",
+                        "Materials",
+                        "Textures"
+                    ],
+                    [
+                        "Eye Assets",
+                        "Materials",
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Eye Assets",
+                        "Materials",
+                        "Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Eye Assets",
+                        "Materials",
+                        "Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Eye Assets",
+                        "Materials",
+                        "Textures",
+                        "gradient_y_red"
+                    ],
+                    [
+                        "Eye Assets",
+                        "Materials",
+                        "Textures",
+                        "white"
+                    ],
+                    [
+                        "Eye Assets",
+                        "Sclera"
+                    ],
+                    [
+                        "Fur"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "23652533853420dd8c91b18fce735a46",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_find_face"
+            ],
+            "lens": "FurEye",
+            "applicability": "15",
+            "lens_descriptors": [
+                "SUPPORTS_NEWPORT_DEPTH"
+            ]
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1628894672190587:201542"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1628894613604681:193833",
+                    "name": "Files\/File8.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1628894613622821:193853",
+                    "name": "Files\/File10.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1628894613630431:193865",
+                    "name": "Files\/File12",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1628894613665346:193884",
+                    "name": "Files\/File14.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1628894613673358:193900",
+                    "name": "Files\/File16.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1628894613683155:193912",
+                    "name": "Files\/File18.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1628894613692046:193924",
+                    "name": "Files\/File20.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1628894613699738:193936",
+                    "name": "Files\/File22.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1628894613708166:193952",
+                    "name": "Files\/File24",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1628894672190587:201542",
+                    "name": "Files\/File26",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1628894613560013:193725",
+                "4": "1628894613740881:193971",
+                "5": "1628894613742100:193973",
+                "6": "1628894613742281:193975",
+                "7": "1628894613768074:194030",
+                "8": "1628894613859442:194072",
+                "9": "1628894613884619:194090",
+                "10": "1628894613886321:194104"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.mesh"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.mesh"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.mesh"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.lsmat"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "26374",
+                        "v": "Eye Assets"
+                    },
+                    {
+                        "k": "26375",
+                        "v": "Eye Assets\/Sclera.mesh"
+                    },
+                    {
+                        "k": "26376",
+                        "v": "Eye Assets\/Choroid.mesh"
+                    },
+                    {
+                        "k": "26377",
+                        "v": "Eye Assets\/Materials"
+                    },
+                    {
+                        "k": "26378",
+                        "v": "Eye Assets\/Materials\/Choroid Default.lsmat"
+                    },
+                    {
+                        "k": "26379",
+                        "v": "Eye Assets\/Materials\/Textures"
+                    },
+                    {
+                        "k": "26380",
+                        "v": "Eye Assets\/Materials\/Textures\/Base.png"
+                    },
+                    {
+                        "k": "26381",
+                        "v": "Eye Assets\/Materials\/Textures\/MaterialParams.png"
+                    },
+                    {
+                        "k": "26382",
+                        "v": "Eye Assets\/Materials\/Textures\/Normal.png"
+                    },
+                    {
+                        "k": "26383",
+                        "v": "Eye Assets\/Materials\/Textures\/white.png"
+                    },
+                    {
+                        "k": "26384",
+                        "v": "Eye Assets\/Materials\/Textures\/gradient_y_red.png"
+                    },
+                    {
+                        "k": "26385",
+                        "v": "Eye Assets\/Materials\/Sclera Default.lsmat"
+                    },
+                    {
+                        "k": "26386",
+                        "v": "Fur.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "26375",
+                        "v": "a3138754dcdceaf2284020e60a8c69ac"
+                    },
+                    {
+                        "k": "26376",
+                        "v": "f7de2ecb295f43374fd5b3d76b6dea58"
+                    },
+                    {
+                        "k": "26378",
+                        "v": "cf0995818ceba2ee13364035b5b86d25"
+                    },
+                    {
+                        "k": "26380",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "26381",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "26382",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "26383",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "26384",
+                        "v": "46d2574129d7e76351d16c610d00b255"
+                    },
+                    {
+                        "k": "26385",
+                        "v": "dd6e8970d17e196efd4949880cb2dd99"
+                    },
+                    {
+                        "k": "26386",
+                        "v": "e0f154dea630d3978ac1e0f3e2931b36"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-13T15:45:16",
+                        "name": "Public",
+                        "hash": "c4546b99332b4447d29d8c5bcbdc72cf",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-13T15:45:16",
+                                "name": "Fur.lsmat",
+                                "hash": "091a0ac83bc131082fdbf6aa13e9a516",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-13T15:45:16",
+                                "name": "Eye Assets",
+                                "hash": "18ab031bcac8631768f14f9f4f59f9d5",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-13T15:45:16",
+                                        "name": "Materials",
+                                        "hash": "65313dfeaf145fb43cc18ba5f0facaaf",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-13T15:45:16",
+                                                "name": "Textures",
+                                                "hash": "75da1c352d5c029de07e91ce18c4bc56",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-13T15:43:33",
+                                                        "name": "gradient_y_red.png",
+                                                        "hash": "46d2574129d7e76351d16c610d00b255",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-13T15:43:33",
+                                                        "name": "MaterialParams.png",
+                                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-13T15:43:33",
+                                                        "name": "Base.png",
+                                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-13T15:43:33",
+                                                        "name": "Normal.png",
+                                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-13T15:43:33",
+                                                        "name": "white.png",
+                                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-13T15:43:33",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-13T15:43:34",
+                                                "name": "Choroid Default.lsmat",
+                                                "hash": "cf0995818ceba2ee13364035b5b86d25",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-13T15:43:34",
+                                                "name": "Sclera Default.lsmat",
+                                                "hash": "dd6e8970d17e196efd4949880cb2dd99",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-13T15:43:33",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-13T15:43:33",
+                                        "name": "Choroid.mesh",
+                                        "hash": "f7de2ecb295f43374fd5b3d76b6dea58",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-13T15:43:33",
+                                        "name": "Sclera.mesh",
+                                        "hash": "a3138754dcdceaf2284020e60a8c69ac",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-13T15:43:33",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eye Assets",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26374",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Sclera",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "12",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628894613604681:193833",
+                                "fileId": "8",
+                                "originalId": "9",
+                                "publicId": "26375",
+                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-ZuJuVc\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": {
+                                    "originalAttribs": {
+                                        "vertexAttribs": [
+                                            {
+                                                "semantic": "position",
+                                                "format": "9",
+                                                "index": "0"
+                                            },
+                                            {
+                                                "semantic": "normal",
+                                                "format": "9",
+                                                "index": "1"
+                                            },
+                                            {
+                                                "semantic": "tangent",
+                                                "format": "9",
+                                                "index": "2"
+                                            },
+                                            {
+                                                "semantic": "texture0",
+                                                "format": "9",
+                                                "index": "3"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Choroid",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "13",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1628894613622821:193853",
+                                "fileId": "10",
+                                "originalId": "11",
+                                "publicId": "26376",
+                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-ZuJuVc\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                "additional": {
+                                    "originalAttribs": {
+                                        "vertexAttribs": [
+                                            {
+                                                "semantic": "position",
+                                                "format": "9",
+                                                "index": "0"
+                                            },
+                                            {
+                                                "semantic": "normal",
+                                                "format": "9",
+                                                "index": "1"
+                                            },
+                                            {
+                                                "semantic": "tangent",
+                                                "format": "9",
+                                                "index": "2"
+                                            },
+                                            {
+                                                "semantic": "texture0",
+                                                "format": "9",
+                                                "index": "3"
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26377",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Choroid Default",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628894613630431:193865",
+                                        "fileId": "12",
+                                        "originalId": "13",
+                                        "publicId": "26378",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26379",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Base",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "15",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1628894613665346:193884",
+                                                "fileId": "14",
+                                                "originalId": "15",
+                                                "publicId": "26380",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-ZuJuVc\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "cb607d7b25a160872c49fb4d2635cc33"
+                                                }
+                                            },
+                                            {
+                                                "name": "MaterialParams",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "16",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1628894613673358:193900",
+                                                "fileId": "16",
+                                                "originalId": "17",
+                                                "publicId": "26381",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-ZuJuVc\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "af2715bddfbca2d4e72f470d285c5010"
+                                                }
+                                            },
+                                            {
+                                                "name": "Normal",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "17",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1628894613683155:193912",
+                                                "fileId": "18",
+                                                "originalId": "19",
+                                                "publicId": "26382",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-ZuJuVc\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                                                }
+                                            },
+                                            {
+                                                "name": "white",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "18",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1628894613692046:193924",
+                                                "fileId": "20",
+                                                "originalId": "21",
+                                                "publicId": "26383",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-ZuJuVc\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "0c8dcfed2f50bb81ac5276a14967c005"
+                                                }
+                                            },
+                                            {
+                                                "name": "gradient_y_red",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "19",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1628894613699738:193936",
+                                                "fileId": "22",
+                                                "originalId": "23",
+                                                "publicId": "26384",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-ZuJuVc\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "46d2574129d7e76351d16c610d00b255"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sclera Default",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628894613708166:193952",
+                                        "fileId": "24",
+                                        "originalId": "25",
+                                        "publicId": "26385",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fur",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1628894672190587:201542",
+                        "fileId": "26",
+                        "originalId": "27",
+                        "publicId": "26386",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": ""
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1628894672190587:201542",
+                    "v": "6fgG9gaxtzFcWvNLy5zOrF"
+                }
+            ]
+        }
+    }
+}

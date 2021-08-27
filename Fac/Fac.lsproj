@@ -1,0 +1,1206 @@
+{
+    "lens_id": "",
+    "document_id": "_-bpvAiLoGX7JtkVxhcr",
+    "original_document_id": "_-bpvAiLoGX7JtkVxhcr",
+    "version": "28",
+    "lastChanged": "1629862354035",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Blizzard VFX Resources"
+                    ],
+                    [
+                        "Blizzard VFX Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Blizzard VFX Resources",
+                        "Textures",
+                        "blizzard"
+                    ],
+                    [
+                        "Blizzard VFX Resources",
+                        "VFX"
+                    ],
+                    [
+                        "Blizzard VFX Resources",
+                        "VFX",
+                        "blizzard_vfx"
+                    ],
+                    [
+                        "BlizzardVFX__PLACE_IN_OBJECTS_PANEL"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Face Mesh"
+                    ],
+                    [
+                        "Face Mesh Default"
+                    ],
+                    [
+                        "Frost"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Face Mesh Texture"
+                    ],
+                    [
+                        "Textures",
+                        "Screen Texture"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1629862334947271:178319"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1629862306508696:174602"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "1629862299280785:173267"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1629862299242209:173192",
+                    "name": "sceneObject_0",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1629862299280785:173267",
+                    "name": "Files\/File9",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1629862299296906:173284",
+                    "name": "Files\/File11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1629862299313794:173301",
+                    "name": "Files\/File13",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1629862299328189:173428",
+                    "name": "Files\/File15",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1629862299345495:173516",
+                    "name": "Files\/File17.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1629862299349339:173532",
+                    "name": "Files\/File18.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1629862306508696:174602",
+                    "name": "Files\/File23",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1629862306552336:174656",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1629862342969364:179962",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1629862342994187:179995",
+                    "name": "Files\/File25",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1629862343046958:180067",
+                    "name": "Files\/File27.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1629862343051842:180079",
+                    "name": "Files\/File29.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1629862342937389:179884",
+                "4": "1629862342937638:179885",
+                "5": "1629862342939174:179905"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.oprfb"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.lsvfx"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.lsmat"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.lsmat"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.lsmat"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.js"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.pvr"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.pvr"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.oprfb"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.lsmat"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.jpg"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.jpg"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.jpg"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.jpg"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "1047",
+                        "v": "Blizzard VFX Resources"
+                    },
+                    {
+                        "k": "1048",
+                        "v": "Blizzard VFX Resources\/VFX"
+                    },
+                    {
+                        "k": "1049",
+                        "v": "Blizzard VFX Resources\/VFX\/blizzard_vfx.lsvfx"
+                    },
+                    {
+                        "k": "1050",
+                        "v": "Blizzard VFX Resources\/Textures"
+                    },
+                    {
+                        "k": "1051",
+                        "v": "Blizzard VFX Resources\/Textures\/blizzard.png"
+                    },
+                    {
+                        "k": "1052",
+                        "v": "BlizzardVFX__PLACE_IN_OBJECTS_PANEL.oprfb"
+                    },
+                    {
+                        "k": "1053",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "1054",
+                        "v": "Frost.lsmat"
+                    },
+                    {
+                        "k": "1055",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "1056",
+                        "v": "Textures\/Face Mesh Texture.jpg"
+                    },
+                    {
+                        "k": "1057",
+                        "v": "Face Mesh Default.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "1049",
+                        "v": "7f3387b9ddb8a55430186218dce68562"
+                    },
+                    {
+                        "k": "1051",
+                        "v": "8d8949235b5a5efea04cdc3e0ab4191a"
+                    },
+                    {
+                        "k": "1052",
+                        "v": "d39de2a32db6c7da6fee6954631a57bf"
+                    },
+                    {
+                        "k": "1054",
+                        "v": "f544d5d1393cbfe7eaee33e294e1ed3e"
+                    },
+                    {
+                        "k": "1055",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "1056",
+                        "v": "c1b22adb808b801d453498c35c300b9a"
+                    },
+                    {
+                        "k": "1057",
+                        "v": "f7601296fdbd7f630db4c5ab20685cec"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-24T20:32:23",
+                        "name": "Public",
+                        "hash": "a8ab450013e509325f72b6d6caf2dff7",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-24T20:32:23",
+                                "name": "Textures",
+                                "hash": "4753f02a5e1e2088d132995d8a6c507a",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-24T20:32:23",
+                                        "name": "Face Mesh Texture.jpg",
+                                        "hash": "c1b22adb808b801d453498c35c300b9a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-24T20:32:23",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-24T20:31:46",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-24T20:31:46",
+                                "name": "Frost.lsmat",
+                                "hash": "a765408a8bf4c07a92958e02f86a8d03",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-24T20:32:23",
+                                "name": "Face Mesh Default.lsmat",
+                                "hash": "de09c52aecc509808cb7ad262102ffe7",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-24T20:31:39",
+                                "name": "Blizzard VFX Resources",
+                                "hash": "22705566407e22d29c910da7ef3ab07a",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-24T20:31:39",
+                                        "name": "Textures",
+                                        "hash": "c2f8dd9c72cb914cd766bbc1530cf11d",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-24T20:31:39",
+                                                "name": "blizzard.png",
+                                                "hash": "8d8949235b5a5efea04cdc3e0ab4191a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-24T20:31:39",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-24T20:31:41",
+                                        "name": "VFX",
+                                        "hash": "ba580002460d6bb58c75d2bdbaaee35b",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-24T20:31:41",
+                                                "name": "blizzard_vfx.lsvfx",
+                                                "hash": "7f3387b9ddb8a55430186218dce68562",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-24T20:31:39",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-24T20:31:39",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-24T20:31:39",
+                                "name": "BlizzardVFX__PLACE_IN_OBJECTS_PANEL.oprfb",
+                                "hash": "d39de2a32db6c7da6fee6954631a57bf",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Blizzard VFX Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1047",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "VFX",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1048",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "blizzard_vfx",
+                                        "type": "23",
+                                        "subtype": "0",
+                                        "resourceId": "13",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "1629862299280785:173267",
+                                        "fileId": "9",
+                                        "originalId": "10",
+                                        "publicId": "1049",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "System 39",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": {
+                                                    "system_id": "39"
+                                                },
+                                                "resources": [
+                                                    {
+                                                        "name": "Rendering",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "14",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629862299296906:173284",
+                                                        "fileId": "11",
+                                                        "originalId": "12",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Feedback",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "15",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629862299313794:173301",
+                                                        "fileId": "13",
+                                                        "originalId": "14",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Simulation",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "16",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629862299328189:173428",
+                                                        "fileId": "15",
+                                                        "originalId": "16",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Managing",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "17",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629862299345495:173516",
+                                                        "fileId": "17",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-eIbmxJ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1050",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "blizzard",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "18",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629862299349339:173532",
+                                        "fileId": "18",
+                                        "originalId": "19",
+                                        "publicId": "1051",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-eIbmxJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "8d8949235b5a5efea04cdc3e0ab4191a"
+                                        }
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "BlizzardVFX__PLACE_IN_OBJECTS_PANEL",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629862299242209:173192",
+                        "fileId": "8",
+                        "originalId": "22",
+                        "publicId": "1052",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1053",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Screen Texture",
+                                "type": "1",
+                                "subtype": "16",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1629862306552336:174656",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "23",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1629862343046958:180067",
+                                "fileId": "27",
+                                "originalId": "28",
+                                "publicId": "1055",
+                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-eIbmxJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "cb607d7b25a160872c49fb4d2635cc33"
+                                }
+                            },
+                            {
+                                "name": "Face Mesh Texture",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "24",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1629862343051842:180079",
+                                "fileId": "29",
+                                "originalId": "30",
+                                "publicId": "1056",
+                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-eIbmxJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": {
+                                    "originHash": "c1b22adb808b801d453498c35c300b9a"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Frost",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "19",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629862306508696:174602",
+                        "fileId": "23",
+                        "originalId": "24",
+                        "publicId": "1054",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Mesh",
+                        "type": "3",
+                        "subtype": "2",
+                        "resourceId": "21",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629862342969364:179962",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Face Mesh Default",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629862342994187:179995",
+                        "fileId": "25",
+                        "originalId": "26",
+                        "publicId": "1057",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1629862342939174:179905"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1629862299349339:173532",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1476",
+                            "compressedSize": "406",
+                            "originalRAM": "4096",
+                            "compressedRAM": "512",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "20",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "8d8949235b5a5efea04cdc3e0ab4191a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "21"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629862343051842:180079",
+                    "v": {
+                        "infos": {
+                            "originalSize": "13493",
+                            "compressedSize": "13493",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "4194304",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "31",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c1b22adb808b801d453498c35c300b9a",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "32"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1629862299242209:173192",
+                    "v": "26bJYqfCgP0Yjg1dwFkfEw"
+                },
+                {
+                    "k": "1629862299296906:173284",
+                    "v": "26bJYqfCgP0Yjg1dwFkfEw"
+                },
+                {
+                    "k": "1629862299313794:173301",
+                    "v": "26bJYqfCgP0Yjg1dwFkfEw"
+                },
+                {
+                    "k": "1629862299328189:173428",
+                    "v": "26bJYqfCgP0Yjg1dwFkfEw"
+                },
+                {
+                    "k": "1629862299345495:173516",
+                    "v": "26bJYqfCgP0Yjg1dwFkfEw"
+                },
+                {
+                    "k": "1629862299349339:173532",
+                    "v": "26bJYqfCgP0Yjg1dwFkfEw"
+                },
+                {
+                    "k": "1629862306508696:174602",
+                    "v": "7AnjExTReJKVx1KtRkpF7w"
+                },
+                {
+                    "k": "1629862306552336:174656",
+                    "v": "7AnjExTReJKVx1KtRkpF7w"
+                }
+            ]
+        }
+    }
+}

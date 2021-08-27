@@ -1,0 +1,1736 @@
+{
+    "lens_id": "",
+    "document_id": "FvbZ694St-VaECyMfeah",
+    "original_document_id": "FvbZ694St-VaECyMfeah",
+    "version": "28",
+    "lastChanged": "1628894045057",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Mug Detection Resources"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "ML Hint"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "ML Hint",
+                        "Font"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "ML Hint",
+                        "Font",
+                        "FredokaOne-Regular"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "ML Hint",
+                        "Textures"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "ML Hint",
+                        "Textures",
+                        "ml_loading"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "Models"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "Models",
+                        "mug_detector_model_fritz_ai"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "Scripts"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "Scripts",
+                        "MLController"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "Scripts",
+                        "ObjectDetectionController"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "Textures",
+                        "Bounding Box Textures"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "Textures",
+                        "Bounding Box Textures",
+                        "corner_frame_tex"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "Textures",
+                        "Bounding Box Textures",
+                        "horizontal_frame_tex"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "Textures",
+                        "Bounding Box Textures",
+                        "vertical_frame_tex"
+                    ],
+                    [
+                        "Mug Detection Resources",
+                        "Textures",
+                        "line"
+                    ],
+                    [
+                        "MugDetection__PUT_IN_ORTHO_CAM"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Mug Counter",
+            "applicability": "15",
+            "lens_descriptors": [
+                "SUPPORTS_NEWPORT_DEPTH"
+            ]
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1628399366524144:144317",
+                    "name": "sceneObject_0",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1628399366590621:144488",
+                    "name": "Files\/File9.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1628399366596165:144500",
+                    "name": "Files\/File10.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1628399366762710:144512",
+                    "name": "Files\/File13.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1628399366877334:144616",
+                    "name": "Files\/File16.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1628399366882802:144628",
+                    "name": "Files\/File17.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1628399366943547:144649",
+                    "name": "Files\/File19",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1628399366999493:144687",
+                    "name": "Files\/File21.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1628399367113874:144703",
+                    "name": "Files\/File24.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1628399367122104:144715",
+                    "name": "Files\/File26.dnn",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1628399416379124:153725",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1628399416391840:153897",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1628399416430179:154228",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1628399416485959:155056",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1628399387563093:147875",
+                "4": "1628399416378232:153693",
+                "5": "1628399416387030:153859",
+                "6": "1628399416391038:153882",
+                "7": "1628399416391709:153895",
+                "8": "1628399416398797:154033",
+                "9": "1628399416429840:154224",
+                "10": "1628399416436043:154362",
+                "11": "1628399416442616:154502",
+                "12": "1628399416469794:154756",
+                "13": "1628399416478165:154903",
+                "14": "1628399416485801:155054",
+                "15": "1628399416491645:155192",
+                "16": "1628399416497173:155328",
+                "17": "1628399416504148:155471",
+                "18": "1628399416510768:155611",
+                "19": "1628399416534829:155796",
+                "20": "1628399416560965:155985",
+                "21": "1628399416585673:156174",
+                "22": "1628399416609716:156363",
+                "23": "1628399416634897:156548",
+                "24": "1628399416659796:156737",
+                "25": "1628399416684403:156926"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.oprfb"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.js"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.pvr"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.png"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.pvr"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.png"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.ttf"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.js"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.pvr"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.pvr"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.dnn"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.dnn"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.pvr"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.pvr"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.oprfb"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "26334",
+                        "v": "Mug Detection Resources"
+                    },
+                    {
+                        "k": "26335",
+                        "v": "Mug Detection Resources\/Scripts"
+                    },
+                    {
+                        "k": "26336",
+                        "v": "Mug Detection Resources\/Scripts\/ObjectDetectionController.js"
+                    },
+                    {
+                        "k": "26337",
+                        "v": "Mug Detection Resources\/Textures"
+                    },
+                    {
+                        "k": "26338",
+                        "v": "Mug Detection Resources\/Textures\/Bounding Box Textures"
+                    },
+                    {
+                        "k": "26339",
+                        "v": "Mug Detection Resources\/Textures\/Bounding Box Textures\/vertical_frame_tex.png"
+                    },
+                    {
+                        "k": "26340",
+                        "v": "Mug Detection Resources\/Textures\/Bounding Box Textures\/horizontal_frame_tex.png"
+                    },
+                    {
+                        "k": "26341",
+                        "v": "Mug Detection Resources\/ML Hint"
+                    },
+                    {
+                        "k": "26342",
+                        "v": "Mug Detection Resources\/ML Hint\/Font"
+                    },
+                    {
+                        "k": "26343",
+                        "v": "Mug Detection Resources\/ML Hint\/Font\/FredokaOne-Regular.ttf"
+                    },
+                    {
+                        "k": "26344",
+                        "v": "Mug Detection Resources\/Scripts\/MLController.js"
+                    },
+                    {
+                        "k": "26345",
+                        "v": "Mug Detection Resources\/ML Hint\/Textures"
+                    },
+                    {
+                        "k": "26346",
+                        "v": "Mug Detection Resources\/ML Hint\/Textures\/ml_loading"
+                    },
+                    {
+                        "k": "26347",
+                        "v": "Mug Detection Resources\/Textures\/Bounding Box Textures\/corner_frame_tex.png"
+                    },
+                    {
+                        "k": "26348",
+                        "v": "Mug Detection Resources\/Textures\/line.png"
+                    },
+                    {
+                        "k": "26349",
+                        "v": "Mug Detection Resources\/Models"
+                    },
+                    {
+                        "k": "26350",
+                        "v": "Mug Detection Resources\/Models\/mug_detector_model_fritz_ai.dnn"
+                    },
+                    {
+                        "k": "26351",
+                        "v": "MugDetection__PUT_IN_ORTHO_CAM.oprfb"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "26336",
+                        "v": "1c0519ecda0f8607aa7c0909b2c106fc"
+                    },
+                    {
+                        "k": "26339",
+                        "v": "2edd7a8a256fe7dbc10de48500a1e716"
+                    },
+                    {
+                        "k": "26340",
+                        "v": "d34007d90c6d6bf4bbe870940944aa2a"
+                    },
+                    {
+                        "k": "26343",
+                        "v": "4a2f2ea45a0bb1abe81b47d0afde4aae"
+                    },
+                    {
+                        "k": "26344",
+                        "v": "19e27059895db05aa7c9c942f8d72119"
+                    },
+                    {
+                        "k": "26346",
+                        "v": "e3dee3ff565dc63c06e7d15a5faada2a"
+                    },
+                    {
+                        "k": "26347",
+                        "v": "ad7447bff3019e29277b3cfb8f08fa14"
+                    },
+                    {
+                        "k": "26348",
+                        "v": "5eeb0b51b3197597fbeac3505be54946"
+                    },
+                    {
+                        "k": "26350",
+                        "v": "4aeccac83d673e4b11d7b2c351025a14"
+                    },
+                    {
+                        "k": "26351",
+                        "v": "8b21084ce07967020c739645e4053d9c"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-07T22:09:27",
+                        "name": "Public",
+                        "hash": "68813ad31c09148ff1fc4e30ec8fadd2",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-07T22:09:27",
+                                "name": "Mug Detection Resources",
+                                "hash": "079044e669d4f9e674467b4a755a0dd2",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-07T22:09:27",
+                                        "name": "Textures",
+                                        "hash": "7a2ca692a180d4767ca48960d4f66c83",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-07T22:09:27",
+                                                "name": "Bounding Box Textures",
+                                                "hash": "d30abb0fc7debb432c4715a88df215ed",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-07T22:09:26",
+                                                        "name": "horizontal_frame_tex.png",
+                                                        "hash": "d34007d90c6d6bf4bbe870940944aa2a",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-07T22:09:26",
+                                                        "name": "vertical_frame_tex.png",
+                                                        "hash": "2edd7a8a256fe7dbc10de48500a1e716",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-07T22:09:26",
+                                                        "name": "corner_frame_tex.png",
+                                                        "hash": "ad7447bff3019e29277b3cfb8f08fa14",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-07T22:09:26",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T22:09:26",
+                                                "name": "line.png",
+                                                "hash": "5eeb0b51b3197597fbeac3505be54946",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T22:09:26",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-07T22:09:26",
+                                        "name": "ML Hint",
+                                        "hash": "fbbacfb1c624e4869ceb7200b4192ac4",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-07T22:09:26",
+                                                "name": "Textures",
+                                                "hash": "c159fc313334aa7087f1a50ba443b61b",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2021-08-07T22:09:26",
+                                                        "name": "ml_loading",
+                                                        "hash": "0cb1700d3bc8c1cc561eb34c21b8f329",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-08-07T22:09:26",
+                                                                "name": "atlas_0.pvr",
+                                                                "hash": "d1f71875c8d2b1d37c216a08dbfe0626",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-08-07T22:09:26",
+                                                                "name": "animation.t3d",
+                                                                "hash": "f975e445c22cce90cdb683c1f87d56f0",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-07T22:09:26",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-07T22:09:26",
+                                                "name": "Font",
+                                                "hash": "16060818347d2e309d73a640d4470e01",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-07T22:09:26",
+                                                        "name": "FredokaOne-Regular.ttf",
+                                                        "hash": "4a2f2ea45a0bb1abe81b47d0afde4aae",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-07T22:09:26",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T22:09:26",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-07T22:09:27",
+                                        "name": "Models",
+                                        "hash": "70dcbc4d2c3a1037c119789f1198d6e5",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T22:09:26",
+                                                "name": "mug_detector_model_fritz_ai.dnn",
+                                                "hash": "4aeccac83d673e4b11d7b2c351025a14",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T22:09:27",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-07T22:09:26",
+                                        "name": "Scripts",
+                                        "hash": "2e1bc3143f3067927f13d1763bf73483",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T22:09:26",
+                                                "name": "MLController.js",
+                                                "hash": "19e27059895db05aa7c9c942f8d72119",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T22:09:26",
+                                                "name": "ObjectDetectionController.js",
+                                                "hash": "1c0519ecda0f8607aa7c0909b2c106fc",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T22:09:26",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-07T22:09:26",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-07T22:09:26",
+                                "name": "MugDetection__PUT_IN_ORTHO_CAM.oprfb",
+                                "hash": "8b21084ce07967020c739645e4053d9c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "26346"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mug Detection Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "26334",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26335",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "ObjectDetectionController",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628399366590621:144488",
+                                        "fileId": "9",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26336",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-HlBLfa\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "MLController",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628399366882802:144628",
+                                        "fileId": "17",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26344",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-HlBLfa\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26337",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Bounding Box Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26338",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "vertical_frame_tex",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "14",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1628399366596165:144500",
+                                                "fileId": "10",
+                                                "originalId": "11",
+                                                "publicId": "26339",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-HlBLfa\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "2edd7a8a256fe7dbc10de48500a1e716"
+                                                }
+                                            },
+                                            {
+                                                "name": "horizontal_frame_tex",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "15",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1628399366762710:144512",
+                                                "fileId": "13",
+                                                "originalId": "14",
+                                                "publicId": "26340",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-HlBLfa\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "d34007d90c6d6bf4bbe870940944aa2a"
+                                                }
+                                            },
+                                            {
+                                                "name": "corner_frame_tex",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "19",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1628399366999493:144687",
+                                                "fileId": "21",
+                                                "originalId": "22",
+                                                "publicId": "26347",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-HlBLfa\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "ad7447bff3019e29277b3cfb8f08fa14"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "line",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628399367113874:144703",
+                                        "fileId": "24",
+                                        "originalId": "25",
+                                        "publicId": "26348",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-HlBLfa\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "5eeb0b51b3197597fbeac3505be54946"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "ML Hint",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26341",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Font",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26342",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "FredokaOne-Regular",
+                                                "type": "13",
+                                                "subtype": "0",
+                                                "resourceId": "16",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1628399366877334:144616",
+                                                "fileId": "16",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26343",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-HlBLfa\/\/system\/\/emergencyFiles\/emergencyTtf.ttf",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26345",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "ml_loading",
+                                                "type": "1",
+                                                "subtype": "5",
+                                                "resourceId": "18",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1628399366943547:144649",
+                                                "fileId": "19",
+                                                "originalId": "20",
+                                                "publicId": "26346",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-HlBLfa\/\/system\/\/emergencyFiles\/emergencyT3D.t3d",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Models",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "26349",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "mug_detector_model_fritz_ai",
+                                        "type": "22",
+                                        "subtype": "0",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628399367122104:144715",
+                                        "fileId": "26",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26350",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MugDetection__PUT_IN_ORTHO_CAM",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1628399366524144:144317",
+                        "fileId": "8",
+                        "originalId": "30",
+                        "publicId": "26351",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1628399416378232:153693",
+                        "v": {
+                            "prefab": "1628399366524144:144317",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1628399367184287:144768",
+                                    "v": "1628399416378232:153693"
+                                },
+                                {
+                                    "k": "1628399367184317:144770",
+                                    "v": "1628399416379124:153725"
+                                },
+                                {
+                                    "k": "1628399367184329:144772",
+                                    "v": "1628399416387030:153859"
+                                },
+                                {
+                                    "k": "1628399367184332:144774",
+                                    "v": "1628399416387191:153861"
+                                },
+                                {
+                                    "k": "1628399367185246:144779",
+                                    "v": "1628399416388368:153867"
+                                },
+                                {
+                                    "k": "1628399367185398:144793",
+                                    "v": "1628399416391038:153882"
+                                },
+                                {
+                                    "k": "1628399367185403:144795",
+                                    "v": "1628399416391230:153884"
+                                },
+                                {
+                                    "k": "1628399367185432:144805",
+                                    "v": "1628399416391709:153895"
+                                },
+                                {
+                                    "k": "1628399367185434:144807",
+                                    "v": "1628399416391840:153897"
+                                },
+                                {
+                                    "k": "1628399367185440:144809",
+                                    "v": "1628399416398556:154031"
+                                },
+                                {
+                                    "k": "1628399367185445:144811",
+                                    "v": "1628399416398797:154033"
+                                },
+                                {
+                                    "k": "1628399367185448:144813",
+                                    "v": "1628399416398989:154035"
+                                },
+                                {
+                                    "k": "1628399367185452:144815",
+                                    "v": "1628399416405422:154169"
+                                },
+                                {
+                                    "k": "1628399367185481:144818",
+                                    "v": "1628399416429840:154224"
+                                },
+                                {
+                                    "k": "1628399367185485:144820",
+                                    "v": "1628399416429992:154226"
+                                },
+                                {
+                                    "k": "1628399367185487:144822",
+                                    "v": "1628399416430179:154228"
+                                },
+                                {
+                                    "k": "1628399367185492:144824",
+                                    "v": "1628399416436043:154362"
+                                },
+                                {
+                                    "k": "1628399367185495:144826",
+                                    "v": "1628399416436171:154364"
+                                },
+                                {
+                                    "k": "1628399367185500:144828",
+                                    "v": "1628399416442616:154502"
+                                },
+                                {
+                                    "k": "1628399367185503:144830",
+                                    "v": "1628399416442809:154504"
+                                },
+                                {
+                                    "k": "1628399367185515:144833",
+                                    "v": "1628399416463625:154621"
+                                },
+                                {
+                                    "k": "1628399367185519:144835",
+                                    "v": "1628399416469794:154756"
+                                },
+                                {
+                                    "k": "1628399367185526:144837",
+                                    "v": "1628399416469936:154758"
+                                },
+                                {
+                                    "k": "1628399367185555:144839",
+                                    "v": "1628399416471343:154762"
+                                },
+                                {
+                                    "k": "1628399367185560:144841",
+                                    "v": "1628399416478165:154903"
+                                },
+                                {
+                                    "k": "1628399367185562:144843",
+                                    "v": "1628399416478356:154905"
+                                },
+                                {
+                                    "k": "1628399367185586:144845",
+                                    "v": "1628399416479514:154909"
+                                },
+                                {
+                                    "k": "1628399367185591:144847",
+                                    "v": "1628399416485801:155054"
+                                },
+                                {
+                                    "k": "1628399367185593:144849",
+                                    "v": "1628399416485959:155056"
+                                },
+                                {
+                                    "k": "1628399367185598:144851",
+                                    "v": "1628399416491440:155190"
+                                },
+                                {
+                                    "k": "1628399367185601:144853",
+                                    "v": "1628399416491645:155192"
+                                },
+                                {
+                                    "k": "1628399367185603:144855",
+                                    "v": "1628399416491790:155194"
+                                },
+                                {
+                                    "k": "1628399367185610:144857",
+                                    "v": "1628399416497173:155328"
+                                },
+                                {
+                                    "k": "1628399367185613:144859",
+                                    "v": "1628399416497321:155330"
+                                },
+                                {
+                                    "k": "1628399367185618:144861",
+                                    "v": "1628399416502751:155464"
+                                },
+                                {
+                                    "k": "1628399367185641:144863",
+                                    "v": "1628399416504148:155471"
+                                },
+                                {
+                                    "k": "1628399367185643:144865",
+                                    "v": "1628399416504293:155473"
+                                },
+                                {
+                                    "k": "1628399367185646:144867",
+                                    "v": "1628399416510768:155611"
+                                },
+                                {
+                                    "k": "1628399367185648:144869",
+                                    "v": "1628399416510980:155613"
+                                },
+                                {
+                                    "k": "1628399367185651:144871",
+                                    "v": "1628399416516479:155747"
+                                },
+                                {
+                                    "k": "1628399367185664:144874",
+                                    "v": "1628399416534829:155796"
+                                },
+                                {
+                                    "k": "1628399367185666:144876",
+                                    "v": "1628399416535017:155798"
+                                },
+                                {
+                                    "k": "1628399367185669:144878",
+                                    "v": "1628399416540959:155932"
+                                },
+                                {
+                                    "k": "1628399367185686:144881",
+                                    "v": "1628399416560965:155985"
+                                },
+                                {
+                                    "k": "1628399367185688:144883",
+                                    "v": "1628399416561158:155987"
+                                },
+                                {
+                                    "k": "1628399367185692:144885",
+                                    "v": "1628399416566913:156121"
+                                },
+                                {
+                                    "k": "1628399367185701:144888",
+                                    "v": "1628399416585673:156174"
+                                },
+                                {
+                                    "k": "1628399367185705:144890",
+                                    "v": "1628399416585871:156176"
+                                },
+                                {
+                                    "k": "1628399367185709:144892",
+                                    "v": "1628399416591682:156310"
+                                },
+                                {
+                                    "k": "1628399367185724:144895",
+                                    "v": "1628399416609716:156363"
+                                },
+                                {
+                                    "k": "1628399367185726:144897",
+                                    "v": "1628399416609986:156365"
+                                },
+                                {
+                                    "k": "1628399367185734:144899",
+                                    "v": "1628399416616192:156499"
+                                },
+                                {
+                                    "k": "1628399367185747:144902",
+                                    "v": "1628399416634897:156548"
+                                },
+                                {
+                                    "k": "1628399367185749:144904",
+                                    "v": "1628399416635096:156550"
+                                },
+                                {
+                                    "k": "1628399367185753:144906",
+                                    "v": "1628399416641256:156688"
+                                },
+                                {
+                                    "k": "1628399367185764:144909",
+                                    "v": "1628399416659796:156737"
+                                },
+                                {
+                                    "k": "1628399367185766:144911",
+                                    "v": "1628399416659999:156739"
+                                },
+                                {
+                                    "k": "1628399367185770:144913",
+                                    "v": "1628399416665826:156873"
+                                },
+                                {
+                                    "k": "1628399367185779:144916",
+                                    "v": "1628399416684403:156926"
+                                },
+                                {
+                                    "k": "1628399367185782:144918",
+                                    "v": "1628399416684626:156928"
+                                },
+                                {
+                                    "k": "1628399367185785:144920",
+                                    "v": "1628399416690458:157062"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1628399366596165:144500",
+                    "v": {
+                        "infos": {
+                            "originalSize": "233",
+                            "compressedSize": "212",
+                            "originalRAM": "10044",
+                            "compressedRAM": "1344",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "12",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "2edd7a8a256fe7dbc10de48500a1e716",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "18"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1628399366762710:144512",
+                    "v": {
+                        "infos": {
+                            "originalSize": "244",
+                            "compressedSize": "200",
+                            "originalRAM": "10044",
+                            "compressedRAM": "1344",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "15",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d34007d90c6d6bf4bbe870940944aa2a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "28"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1628399366999493:144687",
+                    "v": {
+                        "infos": {
+                            "originalSize": "2026",
+                            "compressedSize": "1395",
+                            "originalRAM": "30780",
+                            "compressedRAM": "4032",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "23",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "ad7447bff3019e29277b3cfb8f08fa14",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "29"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1628399367122104:144715",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1886932",
+                            "compressedSize": "1886932",
+                            "extension": "dnn",
+                            "settings": {
+                                "isCompressed": "false"
+                            }
+                        },
+                        "uncompressed_file": "27",
+                        "compressed_files": ""
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1628399366524144:144317",
+                    "v": "2Ncf70neUbtT5qU1sgxDnT"
+                },
+                {
+                    "k": "1628399366590621:144488",
+                    "v": "2Ncf70neUbtT5qU1sgxDnT"
+                },
+                {
+                    "k": "1628399366596165:144500",
+                    "v": "2Ncf70neUbtT5qU1sgxDnT"
+                },
+                {
+                    "k": "1628399366762710:144512",
+                    "v": "2Ncf70neUbtT5qU1sgxDnT"
+                },
+                {
+                    "k": "1628399366877334:144616",
+                    "v": "2Ncf70neUbtT5qU1sgxDnT"
+                },
+                {
+                    "k": "1628399366882802:144628",
+                    "v": "2Ncf70neUbtT5qU1sgxDnT"
+                },
+                {
+                    "k": "1628399366943547:144649",
+                    "v": "2Ncf70neUbtT5qU1sgxDnT"
+                },
+                {
+                    "k": "1628399366999493:144687",
+                    "v": "2Ncf70neUbtT5qU1sgxDnT"
+                },
+                {
+                    "k": "1628399367113874:144703",
+                    "v": "2Ncf70neUbtT5qU1sgxDnT"
+                },
+                {
+                    "k": "1628399367122104:144715",
+                    "v": "2Ncf70neUbtT5qU1sgxDnT"
+                }
+            ]
+        }
+    }
+}

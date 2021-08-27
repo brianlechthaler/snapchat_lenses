@@ -1,0 +1,3126 @@
+{
+    "lens_id": "",
+    "document_id": "Mf8iDuKdUYTejJU2aYDk",
+    "original_document_id": "Mf8iDuKdUYTejJU2aYDk",
+    "version": "28",
+    "lastChanged": "1629771974460",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Cloud Resources"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint1"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint1 2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint1 3"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint10"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint10 2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint10 3"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint11"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint11 2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint2 2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint2 3"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint3"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint3 2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint3 3"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint4"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint4 2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint4 3"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint5"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint5 2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint5 3"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint6"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint6 2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint6 3"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint7"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint7 2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint7 3"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint8"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint8_2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint8_3"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint9"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint9 2"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Animations",
+                        "joint9 3"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Materials"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Materials",
+                        "cloud_diffuse"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Materials",
+                        "cloud_face_happy_diffuse"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Materials",
+                        "cloud_face_sad_diffuse"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Materials",
+                        "lightning_diffuse"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Meshes"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Meshes",
+                        "Ltnng_001"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Meshes",
+                        "Ltnng_002"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Meshes",
+                        "Ltnng_003"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Meshes",
+                        "cloud_mesh"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Meshes",
+                        "clouf_face"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Meshes",
+                        "clouf_face1"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Textures",
+                        "cloud_diffuse"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Textures",
+                        "cloud_face_happy"
+                    ],
+                    [
+                        "Cloud Resources",
+                        "Textures",
+                        "cloud_face_sad"
+                    ],
+                    [
+                        "Cloud VFX Resources"
+                    ],
+                    [
+                        "Cloud VFX Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Cloud VFX Resources",
+                        "Textures",
+                        "cloud_animation"
+                    ],
+                    [
+                        "Cloud VFX Resources",
+                        "VFX"
+                    ],
+                    [
+                        "Cloud VFX Resources",
+                        "VFX",
+                        "clouds_vfx"
+                    ],
+                    [
+                        "Cloud__PLACE_IN_OBJECTS_PANEL"
+                    ],
+                    [
+                        "Clouds__PLACE_IN_OBJECTS_PANEL"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "a27e93647c64d6a90358a7986b6e70ad",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Head in the Clouds",
+            "applicability": "15",
+            "lens_descriptors": [
+                "SUPPORTS_NEWPORT_DEPTH"
+            ]
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1629771580724705:237809"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "1629771645593327:249524"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1629771559184215:231223",
+                    "name": "sceneObject_0",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1629771559247115:232078",
+                    "name": "Files\/File9.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1629771559558842:232094",
+                    "name": "Files\/File12.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1629771559569001:232110",
+                    "name": "Files\/File14.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1629771559574288:232122",
+                    "name": "Files\/File16",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1629771559605756:232141",
+                    "name": "Files\/File18.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1629771559611513:232153",
+                    "name": "Files\/File20",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1629771559639309:232172",
+                    "name": "Files\/File22",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1629771559664601:232191",
+                    "name": "Files\/File24",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1629771559702595:232214",
+                    "name": "Files\/File26.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1629771559718312:232234",
+                    "name": "Files\/File28.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1629771559734343:232250",
+                    "name": "Files\/File30.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1629771559749564:232270",
+                    "name": "Files\/File32.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1629771559764930:232286",
+                    "name": "Files\/File34.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1629771559780221:232306",
+                    "name": "Files\/File36.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1629771559788026:232318",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1629771559789570:232352",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1629771559790192:232386",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1629771559790777:232420",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1629771559791326:232454",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1629771559791892:232488",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1629771559792441:232522",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1629771559793008:232556",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1629771559793575:232590",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1629771559794160:232624",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1629771559794728:232658",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1629771559795347:232692",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1629771559796102:232726",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1629771559796790:232760",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1629771559797479:232794",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1629771559798194:232828",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1629771559798879:232862",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1629771559799649:232896",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1629771559800557:232930",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1629771559800987:232943",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1629771559801544:232956",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1629771559802321:232990",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1629771559803027:233024",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1629771559803710:233058",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1629771559804092:233071",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1629771559804775:233105",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1629771559805459:233139",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1629771559806116:233173",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1629771559806491:233186",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1629771559807142:233220",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1629771559807795:233254",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1629771559808494:233288",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1629771645503374:249425",
+                    "name": "sceneObject_26",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1629771645553660:249504",
+                    "name": "Files\/File41",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1629771645593327:249524",
+                    "name": "Files\/File43",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1629771645617041:249541",
+                    "name": "Files\/File45",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1629771645641092:249654",
+                    "name": "Files\/File47",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1629771645655690:249691",
+                    "name": "Files\/File49",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1629771645679913:249710",
+                    "name": "Files\/File51.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1629771580724526:237808",
+                "4": "1629771580724705:237809",
+                "5": "1629771580809562:237833",
+                "6": "1629771587598678:239710",
+                "7": "1629771587600856:239806",
+                "8": "1629771587602420:239829",
+                "9": "1629771587604725:239858",
+                "10": "1629771587606137:239872",
+                "11": "1629771587607334:239882",
+                "12": "1629771587608627:239893",
+                "13": "1629771587609766:239904",
+                "14": "1629771587610846:239915",
+                "15": "1629771587611930:239926",
+                "16": "1629771587613474:239939",
+                "17": "1629771587616346:239962",
+                "18": "1629771587618917:239991",
+                "19": "1629771587621470:240020",
+                "20": "1629771587624327:240049",
+                "21": "1629771587625737:240063",
+                "22": "1629771587626831:240077",
+                "23": "1629771587628038:240087",
+                "24": "1629771587629807:240099",
+                "25": "1629771587631074:240109",
+                "26": "1629771587632807:240121",
+                "27": "1629771587633899:240131",
+                "28": "1629771654030602:251944",
+                "29": "1629771654035547:251954"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.oprfb"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.jpg"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.jpg"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.jpg"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.pvr"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.pvr"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.pvr"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.pvr"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.lsmat"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.png"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.lsmat"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.mesh"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.mesh"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.mesh"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.mesh"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.mesh"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.mesh"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.mesh"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.mesh"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.mesh"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.mesh"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.mesh"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.mesh"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.jpg"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.oprfb"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.oprfb"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.lsvfx"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsmat"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.lsmat"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.lsmat"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.js"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.oprfb"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "1055",
+                        "v": "Cloud Resources"
+                    },
+                    {
+                        "k": "1056",
+                        "v": "Cloud Resources\/Textures"
+                    },
+                    {
+                        "k": "1057",
+                        "v": "Cloud Resources\/Textures\/cloud_diffuse.jpg"
+                    },
+                    {
+                        "k": "1058",
+                        "v": "Cloud Resources\/Textures\/cloud_face_happy.pvr"
+                    },
+                    {
+                        "k": "1059",
+                        "v": "Cloud Resources\/Textures\/cloud_face_sad.pvr"
+                    },
+                    {
+                        "k": "1060",
+                        "v": "Cloud Resources\/Materials"
+                    },
+                    {
+                        "k": "1061",
+                        "v": "Cloud Resources\/Materials\/cloud_diffuse.lsmat"
+                    },
+                    {
+                        "k": "1062",
+                        "v": "Cloud Resources\/Textures\/Base.png"
+                    },
+                    {
+                        "k": "1063",
+                        "v": "Cloud Resources\/Materials\/cloud_face_happy_diffuse.lsmat"
+                    },
+                    {
+                        "k": "1064",
+                        "v": "Cloud Resources\/Materials\/cloud_face_sad_diffuse.lsmat"
+                    },
+                    {
+                        "k": "1065",
+                        "v": "Cloud Resources\/Materials\/lightning_diffuse.lsmat"
+                    },
+                    {
+                        "k": "1066",
+                        "v": "Cloud Resources\/Meshes"
+                    },
+                    {
+                        "k": "1067",
+                        "v": "Cloud Resources\/Meshes\/clouf_face.mesh"
+                    },
+                    {
+                        "k": "1068",
+                        "v": "Cloud Resources\/Meshes\/clouf_face1.mesh"
+                    },
+                    {
+                        "k": "1069",
+                        "v": "Cloud Resources\/Meshes\/cloud_mesh.mesh"
+                    },
+                    {
+                        "k": "1070",
+                        "v": "Cloud Resources\/Meshes\/Ltnng_001.mesh"
+                    },
+                    {
+                        "k": "1071",
+                        "v": "Cloud Resources\/Meshes\/Ltnng_002.mesh"
+                    },
+                    {
+                        "k": "1072",
+                        "v": "Cloud Resources\/Meshes\/Ltnng_003.mesh"
+                    },
+                    {
+                        "k": "1073",
+                        "v": "Cloud Resources\/Animations"
+                    },
+                    {
+                        "k": "1074",
+                        "v": "Cloud__PLACE_IN_OBJECTS_PANEL.oprfb"
+                    },
+                    {
+                        "k": "1075",
+                        "v": "Cloud VFX Resources"
+                    },
+                    {
+                        "k": "1076",
+                        "v": "Cloud VFX Resources\/Textures"
+                    },
+                    {
+                        "k": "1077",
+                        "v": "Cloud VFX Resources\/Textures\/cloud_animation"
+                    },
+                    {
+                        "k": "1078",
+                        "v": "Cloud VFX Resources\/VFX"
+                    },
+                    {
+                        "k": "1079",
+                        "v": "Cloud VFX Resources\/VFX\/clouds_vfx.lsvfx"
+                    },
+                    {
+                        "k": "1080",
+                        "v": "Clouds__PLACE_IN_OBJECTS_PANEL.oprfb"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "1057",
+                        "v": "d3ab5bb65feba08566dc321a3dba671b"
+                    },
+                    {
+                        "k": "1058",
+                        "v": "978721e0338a17420619c6935da48ca0"
+                    },
+                    {
+                        "k": "1059",
+                        "v": "67049a0f3476ee65ddebf9a527f94701"
+                    },
+                    {
+                        "k": "1061",
+                        "v": "88bd8d4ab0f065d6b2749fd4c607674d"
+                    },
+                    {
+                        "k": "1062",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "1063",
+                        "v": "49f514bf1bb42b66878f561f53bfbcd7"
+                    },
+                    {
+                        "k": "1064",
+                        "v": "e649e5e3376bc4d39bbe9072907ed55a"
+                    },
+                    {
+                        "k": "1065",
+                        "v": "81ccf2cea3324e48536efbf854722867"
+                    },
+                    {
+                        "k": "1067",
+                        "v": "5fc886f1cd0527e1b7eb6985b6fb48b3"
+                    },
+                    {
+                        "k": "1068",
+                        "v": "e9c8da3c23175406ad8d5123ba1b6cd7"
+                    },
+                    {
+                        "k": "1069",
+                        "v": "bae64bec7f9c5be904933439702ae5e9"
+                    },
+                    {
+                        "k": "1070",
+                        "v": "5a89bc870c5d199a444242e36f532133"
+                    },
+                    {
+                        "k": "1071",
+                        "v": "b7a6fcf9cde708b509af24713a4e8bbd"
+                    },
+                    {
+                        "k": "1072",
+                        "v": "2f14fd533cb6ea59e899ec02fd42e180"
+                    },
+                    {
+                        "k": "1074",
+                        "v": "90800c2c22d70be405305256f5673cab"
+                    },
+                    {
+                        "k": "1077",
+                        "v": "5708ab5bd41afa432d11dedc4c8a54b5"
+                    },
+                    {
+                        "k": "1079",
+                        "v": "bbbe2a7f3dd3f83c56d62bd58ff7e622"
+                    },
+                    {
+                        "k": "1080",
+                        "v": "8e9e9d6762b93466fea033d405ea627c"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-23T19:21:48",
+                        "name": "Public",
+                        "hash": "239fd0a6902150add44c62867a0abf71",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-23T19:20:45",
+                                "name": "Clouds__PLACE_IN_OBJECTS_PANEL.oprfb",
+                                "hash": "8e9e9d6762b93466fea033d405ea627c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-23T19:21:48",
+                                "name": "Cloud VFX Resources",
+                                "hash": "769f151a50fff061aceb178d9be16fc3",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-23T19:21:48",
+                                        "name": "Textures",
+                                        "hash": "df6298402da70467f71f9024862a5e1e",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-23T19:21:48",
+                                                "name": "cloud_animation",
+                                                "hash": "25a24b9ae82b385bb19098dac91678c0",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-23T19:20:45",
+                                                        "name": "atlas_0.pvr",
+                                                        "hash": "b9fd02b1ad859726bb42ed8014b8cbbe",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-23T19:20:45",
+                                                        "name": "animation.t3d",
+                                                        "hash": "d1412fcdbe8bb1c942ff5269dde74c5b",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:20:45",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-23T19:25:04",
+                                        "name": "VFX",
+                                        "hash": "f487101557d8973737400b9ece32a514",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:25:04",
+                                                "name": "clouds_vfx.lsvfx",
+                                                "hash": "bbbe2a7f3dd3f83c56d62bd58ff7e622",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:20:45",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-23T19:20:45",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-23T19:19:19",
+                                "name": "Cloud__PLACE_IN_OBJECTS_PANEL.oprfb",
+                                "hash": "90800c2c22d70be405305256f5673cab",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-23T19:21:48",
+                                "name": "Cloud Resources",
+                                "hash": "7492f4c6bef223d0fa3d6e17f9fe2df5",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-23T19:21:48",
+                                        "name": "Textures",
+                                        "hash": "7c3bdcf72f042acca347b318ad45ab45",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "cloud_diffuse.jpg",
+                                                "hash": "d3ab5bb65feba08566dc321a3dba671b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "cloud_face_happy.pvr",
+                                                "hash": "978721e0338a17420619c6935da48ca0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "cloud_face_sad.pvr",
+                                                "hash": "67049a0f3476ee65ddebf9a527f94701",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "Base.png",
+                                                "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-23T19:21:48",
+                                        "name": "Materials",
+                                        "hash": "07688c588edbb4cd431c72e5c26cf81f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:20",
+                                                "name": "cloud_face_happy_diffuse.lsmat",
+                                                "hash": "49f514bf1bb42b66878f561f53bfbcd7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:20",
+                                                "name": "lightning_diffuse.lsmat",
+                                                "hash": "81ccf2cea3324e48536efbf854722867",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:20",
+                                                "name": "cloud_face_sad_diffuse.lsmat",
+                                                "hash": "e649e5e3376bc4d39bbe9072907ed55a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:20",
+                                                "name": "cloud_diffuse.lsmat",
+                                                "hash": "88bd8d4ab0f065d6b2749fd4c607674d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-23T19:21:48",
+                                        "name": "Meshes",
+                                        "hash": "7805114a7989110830c2199f9a4345df",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "Ltnng_002.mesh",
+                                                "hash": "b7a6fcf9cde708b509af24713a4e8bbd",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "clouf_face1.mesh",
+                                                "hash": "e9c8da3c23175406ad8d5123ba1b6cd7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "Ltnng_003.mesh",
+                                                "hash": "2f14fd533cb6ea59e899ec02fd42e180",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "Ltnng_001.mesh",
+                                                "hash": "5a89bc870c5d199a444242e36f532133",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "cloud_mesh.mesh",
+                                                "hash": "bae64bec7f9c5be904933439702ae5e9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "clouf_face.mesh",
+                                                "hash": "5fc886f1cd0527e1b7eb6985b6fb48b3",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-23T19:21:48",
+                                        "name": "Animations",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:19:19",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-23T19:19:19",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "1077"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cloud Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1055",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1056",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "cloud_diffuse",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559247115:232078",
+                                        "fileId": "9",
+                                        "originalId": "10",
+                                        "publicId": "1057",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "d3ab5bb65feba08566dc321a3dba671b"
+                                        }
+                                    },
+                                    {
+                                        "name": "cloud_face_happy",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559558842:232094",
+                                        "fileId": "12",
+                                        "originalId": "13",
+                                        "publicId": "1058",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "978721e0338a17420619c6935da48ca0"
+                                        }
+                                    },
+                                    {
+                                        "name": "cloud_face_sad",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559569001:232110",
+                                        "fileId": "14",
+                                        "originalId": "15",
+                                        "publicId": "1059",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "67049a0f3476ee65ddebf9a527f94701"
+                                        }
+                                    },
+                                    {
+                                        "name": "Base",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559605756:232141",
+                                        "fileId": "18",
+                                        "originalId": "19",
+                                        "publicId": "1062",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "cb607d7b25a160872c49fb4d2635cc33"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1060",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "cloud_diffuse",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559574288:232122",
+                                        "fileId": "16",
+                                        "originalId": "17",
+                                        "publicId": "1061",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_face_happy_diffuse",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "18",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559611513:232153",
+                                        "fileId": "20",
+                                        "originalId": "21",
+                                        "publicId": "1063",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_face_sad_diffuse",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559639309:232172",
+                                        "fileId": "22",
+                                        "originalId": "23",
+                                        "publicId": "1064",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "lightning_diffuse",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559664601:232191",
+                                        "fileId": "24",
+                                        "originalId": "25",
+                                        "publicId": "1065",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1066",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "clouf_face",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559702595:232214",
+                                        "fileId": "26",
+                                        "originalId": "27",
+                                        "publicId": "1067",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "clouf_face1",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559718312:232234",
+                                        "fileId": "28",
+                                        "originalId": "29",
+                                        "publicId": "1068",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_mesh",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559734343:232250",
+                                        "fileId": "30",
+                                        "originalId": "31",
+                                        "publicId": "1069",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Ltnng_001",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559749564:232270",
+                                        "fileId": "32",
+                                        "originalId": "33",
+                                        "publicId": "1070",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Ltnng_002",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559764930:232286",
+                                        "fileId": "34",
+                                        "originalId": "35",
+                                        "publicId": "1071",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Ltnng_003",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559780221:232306",
+                                        "fileId": "36",
+                                        "originalId": "37",
+                                        "publicId": "1072",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1073",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "joint1",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559788026:232318",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint1 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "28",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559789570:232352",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint1 3",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "29",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559790192:232386",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559790777:232420",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint2 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "31",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559791326:232454",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint2 3",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "32",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559791892:232488",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint3",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "33",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559792441:232522",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint3 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "34",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559793008:232556",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint3 3",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "35",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559793575:232590",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint4",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559794160:232624",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint4 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "37",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559794728:232658",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint4 3",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "38",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559795347:232692",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint5",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "39",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559796102:232726",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint5 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "40",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559796790:232760",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint5 3",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "41",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559797479:232794",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint6",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "42",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559798194:232828",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint6 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "43",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559798879:232862",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint6 3",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "44",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559799649:232896",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint11",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "45",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559800557:232930",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint11 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "46",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559800987:232943",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint7",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "47",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559801544:232956",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint7 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "48",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559802321:232990",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint7 3",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "49",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559803027:233024",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint8",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "50",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559803710:233058",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint9",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "51",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559804092:233071",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint9 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "52",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559804775:233105",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint9 3",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "53",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559805459:233139",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint8_2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "54",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559806116:233173",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint10",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "55",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559806491:233186",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint10 2",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "56",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559807142:233220",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint10 3",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "57",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559807795:233254",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "joint8_3",
+                                        "type": "8",
+                                        "subtype": "0",
+                                        "resourceId": "58",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771559808494:233288",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cloud__PLACE_IN_OBJECTS_PANEL",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629771559184215:231223",
+                        "fileId": "8",
+                        "originalId": "39",
+                        "publicId": "1074",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Cloud VFX Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1075",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1076",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "cloud_animation",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "60",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629771645553660:249504",
+                                        "fileId": "41",
+                                        "originalId": "42",
+                                        "publicId": "1077",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyT3D.t3d",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "VFX",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1078",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "clouds_vfx",
+                                        "type": "23",
+                                        "subtype": "0",
+                                        "resourceId": "61",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "1629771645593327:249524",
+                                        "fileId": "43",
+                                        "originalId": "44",
+                                        "publicId": "1079",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "System 39",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": {
+                                                    "system_id": "39"
+                                                },
+                                                "resources": [
+                                                    {
+                                                        "name": "Rendering",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "62",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629771645617041:249541",
+                                                        "fileId": "45",
+                                                        "originalId": "46",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Feedback",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "63",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629771645641092:249654",
+                                                        "fileId": "47",
+                                                        "originalId": "48",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Simulation",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "64",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629771645655690:249691",
+                                                        "fileId": "49",
+                                                        "originalId": "50",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Managing",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "65",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629771645679913:249710",
+                                                        "fileId": "51",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-vtRrXL\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Clouds__PLACE_IN_OBJECTS_PANEL",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "59",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629771645503374:249425",
+                        "fileId": "40",
+                        "originalId": "52",
+                        "publicId": "1080",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1629771654030602:251944"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1629771587598678:239710",
+                        "v": {
+                            "prefab": "1629771559184215:231223",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1629771559812042:233509",
+                                    "v": "1629771587598678:239710"
+                                },
+                                {
+                                    "k": "1629771559812060:233511",
+                                    "v": "1629771587600337:239802"
+                                },
+                                {
+                                    "k": "1629771559812084:233513",
+                                    "v": "1629771587600624:239804"
+                                },
+                                {
+                                    "k": "1629771559812247:233515",
+                                    "v": "1629771587600856:239806"
+                                },
+                                {
+                                    "k": "1629771559812252:233517",
+                                    "v": "1629771587601621:239814"
+                                },
+                                {
+                                    "k": "1629771559812275:233519",
+                                    "v": "1629771587602420:239829"
+                                },
+                                {
+                                    "k": "1629771559812279:233521",
+                                    "v": "1629771587603820:239843"
+                                },
+                                {
+                                    "k": "1629771559812286:233523",
+                                    "v": "1629771587604725:239858"
+                                },
+                                {
+                                    "k": "1629771559812289:233525",
+                                    "v": "1629771587606137:239872"
+                                },
+                                {
+                                    "k": "1629771559812291:233527",
+                                    "v": "1629771587607056:239880"
+                                },
+                                {
+                                    "k": "1629771559812310:233529",
+                                    "v": "1629771587607334:239882"
+                                },
+                                {
+                                    "k": "1629771559812312:233531",
+                                    "v": "1629771587608161:239890"
+                                },
+                                {
+                                    "k": "1629771559812318:233533",
+                                    "v": "1629771587608627:239893"
+                                },
+                                {
+                                    "k": "1629771559812321:233535",
+                                    "v": "1629771587609417:239901"
+                                },
+                                {
+                                    "k": "1629771559812325:233537",
+                                    "v": "1629771587609766:239904"
+                                },
+                                {
+                                    "k": "1629771559812327:233539",
+                                    "v": "1629771587610500:239912"
+                                },
+                                {
+                                    "k": "1629771559812332:233541",
+                                    "v": "1629771587610846:239915"
+                                },
+                                {
+                                    "k": "1629771559812334:233543",
+                                    "v": "1629771587611585:239923"
+                                },
+                                {
+                                    "k": "1629771559812339:233545",
+                                    "v": "1629771587611930:239926"
+                                },
+                                {
+                                    "k": "1629771559812342:233547",
+                                    "v": "1629771587612647:239934"
+                                },
+                                {
+                                    "k": "1629771559812347:233549",
+                                    "v": "1629771587613474:239939"
+                                },
+                                {
+                                    "k": "1629771559812349:233551",
+                                    "v": "1629771587614563:239947"
+                                },
+                                {
+                                    "k": "1629771559812357:233553",
+                                    "v": "1629771587616346:239962"
+                                },
+                                {
+                                    "k": "1629771559812360:233555",
+                                    "v": "1629771587618073:239976"
+                                },
+                                {
+                                    "k": "1629771559812366:233557",
+                                    "v": "1629771587618917:239991"
+                                },
+                                {
+                                    "k": "1629771559812369:233559",
+                                    "v": "1629771587620369:240005"
+                                },
+                                {
+                                    "k": "1629771559812375:233561",
+                                    "v": "1629771587621470:240020"
+                                },
+                                {
+                                    "k": "1629771559812377:233563",
+                                    "v": "1629771587623080:240034"
+                                },
+                                {
+                                    "k": "1629771559812384:233565",
+                                    "v": "1629771587624327:240049"
+                                },
+                                {
+                                    "k": "1629771559812389:233567",
+                                    "v": "1629771587625737:240063"
+                                },
+                                {
+                                    "k": "1629771559812392:233569",
+                                    "v": "1629771587626548:240071"
+                                },
+                                {
+                                    "k": "1629771559812403:233571",
+                                    "v": "1629771587626831:240077"
+                                },
+                                {
+                                    "k": "1629771559812406:233573",
+                                    "v": "1629771587627752:240085"
+                                },
+                                {
+                                    "k": "1629771559812410:233575",
+                                    "v": "1629771587628038:240087"
+                                },
+                                {
+                                    "k": "1629771559812413:233577",
+                                    "v": "1629771587628956:240095"
+                                },
+                                {
+                                    "k": "1629771559812417:233579",
+                                    "v": "1629771587629807:240099"
+                                },
+                                {
+                                    "k": "1629771559812420:233581",
+                                    "v": "1629771587630751:240107"
+                                },
+                                {
+                                    "k": "1629771559812435:233583",
+                                    "v": "1629771587631074:240109"
+                                },
+                                {
+                                    "k": "1629771559812439:233585",
+                                    "v": "1629771587632069:240117"
+                                },
+                                {
+                                    "k": "1629771559812442:233587",
+                                    "v": "1629771587632807:240121"
+                                },
+                                {
+                                    "k": "1629771559812445:233589",
+                                    "v": "1629771587633718:240129"
+                                },
+                                {
+                                    "k": "1629771559812449:233591",
+                                    "v": "1629771587633899:240131"
+                                },
+                                {
+                                    "k": "1629771559812451:233593",
+                                    "v": "1629771587634668:240139"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "k": "1629771654030602:251944",
+                        "v": {
+                            "prefab": "1629771645503374:249425",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1629771645682219:249732",
+                                    "v": "1629771654030602:251944"
+                                },
+                                {
+                                    "k": "1629771645682229:249734",
+                                    "v": "1629771654035547:251954"
+                                },
+                                {
+                                    "k": "1629771645682233:249736",
+                                    "v": "1629771654036613:251962"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1629771559247115:232078",
+                    "v": {
+                        "infos": {
+                            "originalSize": "12294",
+                            "compressedSize": "12294",
+                            "originalRAM": "1048576",
+                            "compressedRAM": "1394606",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "11",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "d3ab5bb65feba08566dc321a3dba671b",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "38"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1629771559184215:231223",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559247115:232078",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559558842:232094",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559569001:232110",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559574288:232122",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559605756:232141",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559611513:232153",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559639309:232172",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559664601:232191",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559702595:232214",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559718312:232234",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559734343:232250",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559749564:232270",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559764930:232286",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559780221:232306",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559788026:232318",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559789570:232352",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559790192:232386",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559790777:232420",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559791326:232454",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559791892:232488",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559792441:232522",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559793008:232556",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559793575:232590",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559794160:232624",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559794728:232658",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559795347:232692",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559796102:232726",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559796790:232760",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559797479:232794",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559798194:232828",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559798879:232862",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559799649:232896",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559800557:232930",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559800987:232943",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559801544:232956",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559802321:232990",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559803027:233024",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559803710:233058",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559804092:233071",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559804775:233105",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559805459:233139",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559806116:233173",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559806491:233186",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559807142:233220",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559807795:233254",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771559808494:233288",
+                    "v": "4IMoieyzJkHvvt83EP7qaT"
+                },
+                {
+                    "k": "1629771645503374:249425",
+                    "v": "48VXuMSmR3Yoh577EqxPKJ"
+                },
+                {
+                    "k": "1629771645553660:249504",
+                    "v": "48VXuMSmR3Yoh577EqxPKJ"
+                },
+                {
+                    "k": "1629771645617041:249541",
+                    "v": "48VXuMSmR3Yoh577EqxPKJ"
+                },
+                {
+                    "k": "1629771645641092:249654",
+                    "v": "48VXuMSmR3Yoh577EqxPKJ"
+                },
+                {
+                    "k": "1629771645655690:249691",
+                    "v": "48VXuMSmR3Yoh577EqxPKJ"
+                },
+                {
+                    "k": "1629771645679913:249710",
+                    "v": "48VXuMSmR3Yoh577EqxPKJ"
+                }
+            ]
+        }
+    }
+}

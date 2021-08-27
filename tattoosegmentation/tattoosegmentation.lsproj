@@ -1,0 +1,2301 @@
+{
+    "lens_id": "",
+    "document_id": "kJnIOr-sIQ0ilVwuCmif",
+    "original_document_id": "kJnIOr-sIQ0ilVwuCmif",
+    "version": "28",
+    "lastChanged": "1629002690356",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Body Tracking Asset"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials",
+                        "Mip Maps Enabled"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials",
+                        "Mip Maps Enabled",
+                        "face_tattoo_material [EDIT_BASE_TEXTURE]"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials",
+                        "Mip Maps Enabled",
+                        "left_arm_tattoo_material"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials",
+                        "Mip Maps Enabled",
+                        "left_fore_arm_tattoo_material"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials",
+                        "Mip Maps Enabled",
+                        "neck_tattoo_material"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials",
+                        "Mip Maps Enabled",
+                        "right_arm_tattoo_material"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials",
+                        "Mip Maps Enabled",
+                        "right_fore_arm_tattoo_material"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials",
+                        "Mip Maps Enabled",
+                        "spine2_tattoo_material"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials",
+                        "Segmentation Materials"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials",
+                        "Segmentation Materials",
+                        "portrait_background_segmentation_material"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Materials",
+                        "Segmentation Materials",
+                        "upper_garment_segmentation_material"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Meshes"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Meshes",
+                        "Face Mesh"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Script"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Script",
+                        "Readme"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Textures",
+                        "Segmentation Texture"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Textures",
+                        "Segmentation Texture",
+                        "Portrait Background Segmentation"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Textures",
+                        "Segmentation Texture",
+                        "Upper Garment Segmentation"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Textures",
+                        "face_tattoo [EDIT_IN_IMAGE_EDITING_TOOL]"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Textures",
+                        "left_fore_arm_tattoo"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Textures",
+                        "left_right_arm_tattoo"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Textures",
+                        "neck_tattoo"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Textures",
+                        "right_fore_arm_tattoo"
+                    ],
+                    [
+                        "Tattoo Segmentation Resources",
+                        "Textures",
+                        "spine2_tattoo"
+                    ],
+                    [
+                        "TattooSegmentation__PUT_UNDER_MAIN_CAM"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "f57a3255923896a1876005dacc4303e3",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "TattooSegmentation",
+            "applicability": "15",
+            "lens_descriptors": [
+                "SUPPORTS_NEWPORT_DEPTH"
+            ]
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1629002317167459:3955"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1629002316962640:3237",
+                    "name": "sceneObject_0",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1629002317075660:3617",
+                    "name": "Files\/File9",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1629002317108220:3640",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1629002317111849:3672",
+                    "name": "Files\/File11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1629002317135716:3695",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1629002317136651:3715",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1629002317165386:3945",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1629002317167459:3955",
+                    "name": "Files\/File13",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1629002317206710:3983",
+                    "name": "Files\/File15.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1629002317441607:4009",
+                    "name": "Files\/File18",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1629002317487673:4037",
+                    "name": "Files\/File20.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1629002317533023:4061",
+                    "name": "Files\/File23.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1629002317580004:4081",
+                    "name": "Files\/File26.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1629002317604884:4093",
+                    "name": "Files\/File29.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1629002317641364:4109",
+                    "name": "Files\/File32.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1629002317706280:4125",
+                    "name": "Files\/File35",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1629002317809413:4151",
+                    "name": "Files\/File37",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1629002317888821:4193",
+                    "name": "Files\/File39",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1629002317938640:4221",
+                    "name": "Files\/File41",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1629002318159662:4281",
+                    "name": "Files\/File43",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1629002318220961:4317",
+                    "name": "Files\/File45.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1629002323695054:6032",
+                "4": "1629002323699767:6079",
+                "5": "1629002323703036:6101",
+                "6": "1629002323770007:6177",
+                "7": "1629002323772148:6187",
+                "8": "1629002323772682:6189",
+                "9": "1629002323810094:6317",
+                "10": "1629002323810278:6319",
+                "11": "1629002323855410:6451",
+                "12": "1629002323856267:6455",
+                "13": "1629002323999639:6595",
+                "14": "1629002324000465:6599",
+                "15": "1629002324074182:6731",
+                "16": "1629002324074915:6735",
+                "17": "1629002324120719:6867",
+                "18": "1629002324121493:6871",
+                "19": "1629002324154996:6999",
+                "20": "1629002324155836:7003",
+                "21": "1629002324222150:7132",
+                "22": "1629002324222835:7136",
+                "23": "1629002324402852:7277",
+                "24": "1629002324403574:7281",
+                "25": "1629002324445975:7410",
+                "26": "1629002324455138:7414",
+                "27": "1629002324506851:7539",
+                "28": "1629002324507625:7543",
+                "29": "1629002324593799:7676",
+                "30": "1629002324594729:7680",
+                "31": "1629002324667157:7809",
+                "32": "1629002324667907:7813",
+                "33": "1629002324728478:7942",
+                "34": "1629002324730295:7946",
+                "35": "1629002324797845:8082"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.oprfb"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.lsmat"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.lsmat"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.lsmat"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.pvr"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.pvr"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.pvr"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.png"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.png"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.pvr"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.pvr"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.pvr"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.png"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.png"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.lsmat"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.lsmat"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.lsmat"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.lsmat"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.lsmat"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.js"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.oprfb"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.pvr"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.pvr"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49.pvr"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.pvr"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.pvr"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.pvr"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Tattoo Segmentation Resources"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Tattoo Segmentation Resources\/Materials"
+                    },
+                    {
+                        "k": "970",
+                        "v": "Tattoo Segmentation Resources\/Materials\/Segmentation Materials"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Tattoo Segmentation Resources\/Materials\/Segmentation Materials\/portrait_background_segmentation_material.lsmat"
+                    },
+                    {
+                        "k": "972",
+                        "v": "Tattoo Segmentation Resources\/Textures"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Tattoo Segmentation Resources\/Textures\/Segmentation Texture"
+                    },
+                    {
+                        "k": "974",
+                        "v": "Tattoo Segmentation Resources\/Materials\/Segmentation Materials\/upper_garment_segmentation_material.lsmat"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Tattoo Segmentation Resources\/Meshes"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Tattoo Segmentation Resources\/Materials\/Mip Maps Enabled"
+                    },
+                    {
+                        "k": "977",
+                        "v": "Tattoo Segmentation Resources\/Materials\/Mip Maps Enabled\/face_tattoo_material [EDIT_BASE_TEXTURE].lsmat"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Tattoo Segmentation Resources\/Textures\/face_tattoo [EDIT_IN_IMAGE_EDITING_TOOL].png"
+                    },
+                    {
+                        "k": "979",
+                        "v": "Tattoo Segmentation Resources\/Materials\/Mip Maps Enabled\/neck_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Tattoo Segmentation Resources\/Textures\/right_fore_arm_tattoo.png"
+                    },
+                    {
+                        "k": "981",
+                        "v": "Tattoo Segmentation Resources\/Textures\/left_fore_arm_tattoo.png"
+                    },
+                    {
+                        "k": "982",
+                        "v": "Tattoo Segmentation Resources\/Textures\/spine2_tattoo.png"
+                    },
+                    {
+                        "k": "983",
+                        "v": "Tattoo Segmentation Resources\/Textures\/left_right_arm_tattoo.png"
+                    },
+                    {
+                        "k": "984",
+                        "v": "Tattoo Segmentation Resources\/Textures\/neck_tattoo.png"
+                    },
+                    {
+                        "k": "985",
+                        "v": "Tattoo Segmentation Resources\/Materials\/Mip Maps Enabled\/spine2_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "986",
+                        "v": "Tattoo Segmentation Resources\/Materials\/Mip Maps Enabled\/left_arm_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "987",
+                        "v": "Tattoo Segmentation Resources\/Materials\/Mip Maps Enabled\/left_fore_arm_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "988",
+                        "v": "Tattoo Segmentation Resources\/Materials\/Mip Maps Enabled\/right_fore_arm_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "989",
+                        "v": "Tattoo Segmentation Resources\/Materials\/Mip Maps Enabled\/right_arm_tattoo_material.lsmat"
+                    },
+                    {
+                        "k": "990",
+                        "v": "Tattoo Segmentation Resources\/Script"
+                    },
+                    {
+                        "k": "991",
+                        "v": "Tattoo Segmentation Resources\/Script\/Readme.js"
+                    },
+                    {
+                        "k": "992",
+                        "v": "TattooSegmentation__PUT_UNDER_MAIN_CAM.oprfb"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "971",
+                        "v": "76a8e3ca669c6ed756b6745a9918778d"
+                    },
+                    {
+                        "k": "974",
+                        "v": "0e5bd29aa808669bab4b3b269aef8377"
+                    },
+                    {
+                        "k": "977",
+                        "v": "24715daea8d1e7ef9f0213206353e8d5"
+                    },
+                    {
+                        "k": "978",
+                        "v": "a7f468e037230564d4a0ad142b857b6a"
+                    },
+                    {
+                        "k": "979",
+                        "v": "ed2406713026196de28bd318947bfdc4"
+                    },
+                    {
+                        "k": "980",
+                        "v": "1a9a65ab69f47cb51496160f7bbf171e"
+                    },
+                    {
+                        "k": "981",
+                        "v": "f77dfd01987e5e7bd50384146bde91e7"
+                    },
+                    {
+                        "k": "982",
+                        "v": "800d228df742706a08ccdb0afc4a7d81"
+                    },
+                    {
+                        "k": "983",
+                        "v": "9bef1cb6ff12f7916c49fb6cac54fede"
+                    },
+                    {
+                        "k": "984",
+                        "v": "c63bbc37e71488ff1e9274a3e39eac5f"
+                    },
+                    {
+                        "k": "985",
+                        "v": "4a7041e0d25b4b07facf05a8caa51add"
+                    },
+                    {
+                        "k": "986",
+                        "v": "6c7f6efa73c5d455a6d355cbef3036c7"
+                    },
+                    {
+                        "k": "987",
+                        "v": "70363e916dded388d44619baa7526228"
+                    },
+                    {
+                        "k": "988",
+                        "v": "e582e80ad940711f25fc2cac3836c067"
+                    },
+                    {
+                        "k": "989",
+                        "v": "69e167dc43cfcebf96a0f5de3fc7579e"
+                    },
+                    {
+                        "k": "991",
+                        "v": "f25d30ce4255c3fbc1cd263ad25c566e"
+                    },
+                    {
+                        "k": "992",
+                        "v": "68158c7d2329deed784bd23120f3c257"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-14T21:40:36",
+                        "name": "Public",
+                        "hash": "c0f9cb36162a54a72551bfe1c25993a8",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-14T21:38:36",
+                                "name": "TattooSegmentation__PUT_UNDER_MAIN_CAM.oprfb",
+                                "hash": "68158c7d2329deed784bd23120f3c257",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-14T21:40:36",
+                                "name": "Tattoo Segmentation Resources",
+                                "hash": "544ffd519562823571c06c2397974238",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-14T21:40:36",
+                                        "name": "Textures",
+                                        "hash": "12a733d98a3288556ce17b3a3afa3a50",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-14T21:38:37",
+                                                "name": "neck_tattoo.png",
+                                                "hash": "c63bbc37e71488ff1e9274a3e39eac5f",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-14T21:38:37",
+                                                "name": "left_right_arm_tattoo.png",
+                                                "hash": "9bef1cb6ff12f7916c49fb6cac54fede",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-14T21:40:36",
+                                                "name": "Segmentation Texture",
+                                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:38:37",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-14T21:38:37",
+                                                "name": "left_fore_arm_tattoo.png",
+                                                "hash": "f77dfd01987e5e7bd50384146bde91e7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-14T21:38:37",
+                                                "name": "spine2_tattoo.png",
+                                                "hash": "800d228df742706a08ccdb0afc4a7d81",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-14T21:38:37",
+                                                "name": "face_tattoo [EDIT_IN_IMAGE_EDITING_TOOL].png",
+                                                "hash": "a7f468e037230564d4a0ad142b857b6a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-14T21:38:37",
+                                                "name": "right_fore_arm_tattoo.png",
+                                                "hash": "1a9a65ab69f47cb51496160f7bbf171e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-14T21:38:37",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-14T21:40:36",
+                                        "name": "Materials",
+                                        "hash": "07cce6f84118b7c8a1ce1766558f3ea5",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-14T21:40:36",
+                                                "name": "Segmentation Materials",
+                                                "hash": "11a304239f271fdbf43b24ba33c9d082",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:38:39",
+                                                        "name": "upper_garment_segmentation_material.lsmat",
+                                                        "hash": "0e5bd29aa808669bab4b3b269aef8377",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:38:39",
+                                                        "name": "portrait_background_segmentation_material.lsmat",
+                                                        "hash": "76a8e3ca669c6ed756b6745a9918778d",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:38:37",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-14T21:40:36",
+                                                "name": "Mip Maps Enabled",
+                                                "hash": "ee7c15d0802608b71a9cc7b75539b377",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:40:36",
+                                                        "name": "right_fore_arm_tattoo_material.lsmat",
+                                                        "hash": "f79454e6fd4c5cbc07c79408b5ece80b",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:40:36",
+                                                        "name": "left_fore_arm_tattoo_material.lsmat",
+                                                        "hash": "cbb2f14ab466e91ec3c4fee6ef7d5264",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:40:36",
+                                                        "name": "spine2_tattoo_material.lsmat",
+                                                        "hash": "74ff4392b1ec0c8919ec2011f63c7437",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:40:36",
+                                                        "name": "face_tattoo_material [EDIT_BASE_TEXTURE].lsmat",
+                                                        "hash": "17ebd84a9e190daf6edb7fce76a6ea07",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:40:36",
+                                                        "name": "left_arm_tattoo_material.lsmat",
+                                                        "hash": "68ed3df3679c4216c214fcb2a1e9bbe7",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:40:36",
+                                                        "name": "right_arm_tattoo_material.lsmat",
+                                                        "hash": "59cd23f58b0354e7aed647f142e091db",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:40:36",
+                                                        "name": "neck_tattoo_material.lsmat",
+                                                        "hash": "6526136ac6ba9945c1b193fceb8d67f9",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-14T21:38:37",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-14T21:38:37",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-14T21:40:36",
+                                        "name": "Script",
+                                        "hash": "6a292923137a4e19ef6033ff885ea84f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-14T21:38:37",
+                                                "name": "Readme.js",
+                                                "hash": "f25d30ce4255c3fbc1cd263ad25c566e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-14T21:38:38",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-14T21:40:36",
+                                        "name": "Meshes",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-14T21:38:37",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-14T21:38:37",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tattoo Segmentation Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "969",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Segmentation Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "970",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "portrait_background_segmentation_material",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "13",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629002317075660:3617",
+                                                "fileId": "9",
+                                                "originalId": "10",
+                                                "publicId": "971",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "upper_garment_segmentation_material",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "15",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629002317111849:3672",
+                                                "fileId": "11",
+                                                "originalId": "12",
+                                                "publicId": "974",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Mip Maps Enabled",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "976",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "face_tattoo_material [EDIT_BASE_TEXTURE]",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "19",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629002317167459:3955",
+                                                "fileId": "13",
+                                                "originalId": "14",
+                                                "publicId": "977",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "neck_tattoo_material",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "21",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629002317441607:4009",
+                                                "fileId": "18",
+                                                "originalId": "19",
+                                                "publicId": "979",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "spine2_tattoo_material",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "27",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629002317706280:4125",
+                                                "fileId": "35",
+                                                "originalId": "36",
+                                                "publicId": "985",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "left_arm_tattoo_material",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "28",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629002317809413:4151",
+                                                "fileId": "37",
+                                                "originalId": "38",
+                                                "publicId": "986",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "left_fore_arm_tattoo_material",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "29",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629002317888821:4193",
+                                                "fileId": "39",
+                                                "originalId": "40",
+                                                "publicId": "987",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "right_fore_arm_tattoo_material",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "30",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629002317938640:4221",
+                                                "fileId": "41",
+                                                "originalId": "42",
+                                                "publicId": "988",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "right_arm_tattoo_material",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "31",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629002318159662:4281",
+                                                "fileId": "43",
+                                                "originalId": "44",
+                                                "publicId": "989",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "972",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Segmentation Texture",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "973",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Portrait Background Segmentation",
+                                                "type": "1",
+                                                "subtype": "14",
+                                                "resourceId": "14",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629002317108220:3640",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Upper Garment Segmentation",
+                                                "type": "1",
+                                                "subtype": "14",
+                                                "resourceId": "16",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629002317135716:3695",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "face_tattoo [EDIT_IN_IMAGE_EDITING_TOOL]",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629002317206710:3983",
+                                        "fileId": "15",
+                                        "originalId": "16",
+                                        "publicId": "978",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-aurUZj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "a7f468e037230564d4a0ad142b857b6a"
+                                        }
+                                    },
+                                    {
+                                        "name": "right_fore_arm_tattoo",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629002317487673:4037",
+                                        "fileId": "20",
+                                        "originalId": "21",
+                                        "publicId": "980",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-aurUZj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "1a9a65ab69f47cb51496160f7bbf171e"
+                                        }
+                                    },
+                                    {
+                                        "name": "left_fore_arm_tattoo",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629002317533023:4061",
+                                        "fileId": "23",
+                                        "originalId": "24",
+                                        "publicId": "981",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-aurUZj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "f77dfd01987e5e7bd50384146bde91e7"
+                                        }
+                                    },
+                                    {
+                                        "name": "spine2_tattoo",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629002317580004:4081",
+                                        "fileId": "26",
+                                        "originalId": "27",
+                                        "publicId": "982",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-aurUZj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "800d228df742706a08ccdb0afc4a7d81"
+                                        }
+                                    },
+                                    {
+                                        "name": "left_right_arm_tattoo",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629002317604884:4093",
+                                        "fileId": "29",
+                                        "originalId": "30",
+                                        "publicId": "983",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-aurUZj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "9bef1cb6ff12f7916c49fb6cac54fede"
+                                        }
+                                    },
+                                    {
+                                        "name": "neck_tattoo",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629002317641364:4109",
+                                        "fileId": "32",
+                                        "originalId": "33",
+                                        "publicId": "984",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-aurUZj\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "c63bbc37e71488ff1e9274a3e39eac5f"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Body Tracking Asset",
+                                "type": "24",
+                                "subtype": "0",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "1629002317136651:3715",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "975",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Face Mesh",
+                                        "type": "3",
+                                        "subtype": "2",
+                                        "resourceId": "18",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629002317165386:3945",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Script",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "990",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Readme",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "32",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629002318220961:4317",
+                                        "fileId": "45",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "991",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-aurUZj\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TattooSegmentation__PUT_UNDER_MAIN_CAM",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1629002316962640:3237",
+                        "fileId": "8",
+                        "originalId": "46",
+                        "publicId": "992",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1629002323695054:6032"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1629002323695054:6032",
+                        "v": {
+                            "prefab": "1629002316962640:3237",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1629002318229710:4396",
+                                    "v": "1629002323695054:6032"
+                                },
+                                {
+                                    "k": "1629002318229725:4398",
+                                    "v": "1629002323697842:6076"
+                                },
+                                {
+                                    "k": "1629002318231253:4401",
+                                    "v": "1629002323699767:6079"
+                                },
+                                {
+                                    "k": "1629002318231272:4403",
+                                    "v": "1629002323700151:6081"
+                                },
+                                {
+                                    "k": "1629002318231310:4405",
+                                    "v": "1629002323703036:6101"
+                                },
+                                {
+                                    "k": "1629002318231317:4407",
+                                    "v": "1629002323737203:6109"
+                                },
+                                {
+                                    "k": "1629002318231801:4409",
+                                    "v": "1629002323770007:6177"
+                                },
+                                {
+                                    "k": "1629002318231808:4411",
+                                    "v": "1629002323771077:6185"
+                                },
+                                {
+                                    "k": "1629002318232092:4413",
+                                    "v": "1629002323772148:6187"
+                                },
+                                {
+                                    "k": "1629002318232104:4415",
+                                    "v": "1629002323772682:6189"
+                                },
+                                {
+                                    "k": "1629002318232111:4417",
+                                    "v": "1629002323773047:6191"
+                                },
+                                {
+                                    "k": "1629002318232464:4420",
+                                    "v": "1629002323810094:6317"
+                                },
+                                {
+                                    "k": "1629002318232470:4422",
+                                    "v": "1629002323810278:6319"
+                                },
+                                {
+                                    "k": "1629002318232476:4424",
+                                    "v": "1629002323810415:6321"
+                                },
+                                {
+                                    "k": "1629002318232489:4427",
+                                    "v": "1629002323855410:6451"
+                                },
+                                {
+                                    "k": "1629002318232492:4429",
+                                    "v": "1629002323855622:6453"
+                                },
+                                {
+                                    "k": "1629002318232514:4431",
+                                    "v": "1629002323856267:6455"
+                                },
+                                {
+                                    "k": "1629002318232519:4433",
+                                    "v": "1629002323856405:6457"
+                                },
+                                {
+                                    "k": "1629002318232529:4436",
+                                    "v": "1629002323999639:6595"
+                                },
+                                {
+                                    "k": "1629002318232532:4438",
+                                    "v": "1629002323999881:6597"
+                                },
+                                {
+                                    "k": "1629002318232536:4440",
+                                    "v": "1629002324000465:6599"
+                                },
+                                {
+                                    "k": "1629002318232538:4442",
+                                    "v": "1629002324000617:6601"
+                                },
+                                {
+                                    "k": "1629002318232553:4445",
+                                    "v": "1629002324074182:6731"
+                                },
+                                {
+                                    "k": "1629002318232555:4447",
+                                    "v": "1629002324074382:6733"
+                                },
+                                {
+                                    "k": "1629002318232559:4449",
+                                    "v": "1629002324074915:6735"
+                                },
+                                {
+                                    "k": "1629002318232561:4451",
+                                    "v": "1629002324075050:6737"
+                                },
+                                {
+                                    "k": "1629002318232572:4454",
+                                    "v": "1629002324120719:6867"
+                                },
+                                {
+                                    "k": "1629002318232578:4456",
+                                    "v": "1629002324120895:6869"
+                                },
+                                {
+                                    "k": "1629002318232581:4458",
+                                    "v": "1629002324121493:6871"
+                                },
+                                {
+                                    "k": "1629002318232583:4460",
+                                    "v": "1629002324121630:6873"
+                                },
+                                {
+                                    "k": "1629002318232592:4463",
+                                    "v": "1629002324154996:6999"
+                                },
+                                {
+                                    "k": "1629002318232594:4465",
+                                    "v": "1629002324155221:7001"
+                                },
+                                {
+                                    "k": "1629002318232598:4467",
+                                    "v": "1629002324155836:7003"
+                                },
+                                {
+                                    "k": "1629002318232600:4469",
+                                    "v": "1629002324155973:7005"
+                                },
+                                {
+                                    "k": "1629002318232612:4472",
+                                    "v": "1629002324222150:7132"
+                                },
+                                {
+                                    "k": "1629002318232614:4474",
+                                    "v": "1629002324222352:7134"
+                                },
+                                {
+                                    "k": "1629002318232617:4476",
+                                    "v": "1629002324222835:7136"
+                                },
+                                {
+                                    "k": "1629002318232619:4478",
+                                    "v": "1629002324222997:7138"
+                                },
+                                {
+                                    "k": "1629002318232630:4481",
+                                    "v": "1629002324402852:7277"
+                                },
+                                {
+                                    "k": "1629002318232632:4483",
+                                    "v": "1629002324403057:7279"
+                                },
+                                {
+                                    "k": "1629002318232636:4485",
+                                    "v": "1629002324403574:7281"
+                                },
+                                {
+                                    "k": "1629002318232638:4487",
+                                    "v": "1629002324403715:7283"
+                                },
+                                {
+                                    "k": "1629002318232647:4490",
+                                    "v": "1629002324445975:7410"
+                                },
+                                {
+                                    "k": "1629002318232650:4492",
+                                    "v": "1629002324446703:7412"
+                                },
+                                {
+                                    "k": "1629002318232653:4494",
+                                    "v": "1629002324455138:7414"
+                                },
+                                {
+                                    "k": "1629002318232655:4496",
+                                    "v": "1629002324455639:7416"
+                                },
+                                {
+                                    "k": "1629002318232666:4499",
+                                    "v": "1629002324506851:7539"
+                                },
+                                {
+                                    "k": "1629002318232669:4501",
+                                    "v": "1629002324507085:7541"
+                                },
+                                {
+                                    "k": "1629002318232672:4503",
+                                    "v": "1629002324507625:7543"
+                                },
+                                {
+                                    "k": "1629002318232674:4505",
+                                    "v": "1629002324507785:7545"
+                                },
+                                {
+                                    "k": "1629002318232686:4508",
+                                    "v": "1629002324593799:7676"
+                                },
+                                {
+                                    "k": "1629002318232688:4510",
+                                    "v": "1629002324594041:7678"
+                                },
+                                {
+                                    "k": "1629002318232692:4512",
+                                    "v": "1629002324594729:7680"
+                                },
+                                {
+                                    "k": "1629002318232694:4514",
+                                    "v": "1629002324594987:7682"
+                                },
+                                {
+                                    "k": "1629002318232702:4517",
+                                    "v": "1629002324667157:7809"
+                                },
+                                {
+                                    "k": "1629002318232704:4519",
+                                    "v": "1629002324667386:7811"
+                                },
+                                {
+                                    "k": "1629002318232708:4521",
+                                    "v": "1629002324667907:7813"
+                                },
+                                {
+                                    "k": "1629002318232710:4523",
+                                    "v": "1629002324668056:7815"
+                                },
+                                {
+                                    "k": "1629002318232720:4526",
+                                    "v": "1629002324728478:7942"
+                                },
+                                {
+                                    "k": "1629002318232722:4528",
+                                    "v": "1629002324729046:7944"
+                                },
+                                {
+                                    "k": "1629002318232726:4530",
+                                    "v": "1629002324730295:7946"
+                                },
+                                {
+                                    "k": "1629002318232728:4532",
+                                    "v": "1629002324730683:7948"
+                                },
+                                {
+                                    "k": "1629002318232740:4535",
+                                    "v": "1629002324797845:8082"
+                                },
+                                {
+                                    "k": "1629002318232744:4537",
+                                    "v": "1629002324798064:8084"
+                                },
+                                {
+                                    "k": "1629002318233240:4539",
+                                    "v": "1629002324826898:8131"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1629002317206710:3983",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1736765",
+                            "compressedSize": "896088",
+                            "originalRAM": "15984004",
+                            "compressedRAM": "2000000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "17",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a7f468e037230564d4a0ad142b857b6a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "52"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629002317487673:4037",
+                    "v": {
+                        "infos": {
+                            "originalSize": "18333",
+                            "compressedSize": "27124",
+                            "originalRAM": "1924048",
+                            "compressedRAM": "241920",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "22",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "1a9a65ab69f47cb51496160f7bbf171e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "47"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629002317533023:4061",
+                    "v": {
+                        "infos": {
+                            "originalSize": "11723",
+                            "compressedSize": "16242",
+                            "originalRAM": "1090152",
+                            "compressedRAM": "137560",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "25",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "f77dfd01987e5e7bd50384146bde91e7",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "48"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629002317580004:4081",
+                    "v": {
+                        "infos": {
+                            "originalSize": "28374",
+                            "compressedSize": "35580",
+                            "originalRAM": "3365996",
+                            "compressedRAM": "422552",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "28",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "800d228df742706a08ccdb0afc4a7d81",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "50"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629002317604884:4093",
+                    "v": {
+                        "infos": {
+                            "originalSize": "20883",
+                            "compressedSize": "33469",
+                            "originalRAM": "2683040",
+                            "compressedRAM": "336200",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "31",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "9bef1cb6ff12f7916c49fb6cac54fede",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "49"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629002317641364:4109",
+                    "v": {
+                        "infos": {
+                            "originalSize": "23713",
+                            "compressedSize": "28408",
+                            "originalRAM": "2635884",
+                            "compressedRAM": "331320",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "34",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "c63bbc37e71488ff1e9274a3e39eac5f",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "51"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1629002316962640:3237",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317075660:3617",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317108220:3640",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317111849:3672",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317135716:3695",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317136651:3715",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317165386:3945",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317167459:3955",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317206710:3983",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317441607:4009",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317487673:4037",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317533023:4061",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317580004:4081",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317604884:4093",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317641364:4109",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317706280:4125",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317809413:4151",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317888821:4193",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002317938640:4221",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002318159662:4281",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                },
+                {
+                    "k": "1629002318220961:4317",
+                    "v": "BHakzLPWSfpaKGwqslXrW"
+                }
+            ]
+        }
+    }
+}

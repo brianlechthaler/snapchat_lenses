@@ -1,0 +1,1459 @@
+{
+    "lens_id": "",
+    "document_id": "pTXAenFYwqfqoEaHKD0T",
+    "original_document_id": "pTXAenFYwqfqoEaHKD0T",
+    "version": "28",
+    "lastChanged": "1629770999375",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Optical Flow VFX Resources"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Materials"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Materials",
+                        "Optical Flow"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Materials",
+                        "Optical Flow",
+                        "Graph OFlow"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Materials",
+                        "Optical Flow",
+                        "Graph OFlow Fade"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Materials",
+                        "Optical Flow",
+                        "Graph OFlow Feedback"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Materials",
+                        "Optical Flow",
+                        "Graph OFlow Src Feedback"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Script"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Script",
+                        "Send Camera Data To VFX"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Textures",
+                        "Portrait Background Segmentation"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Textures",
+                        "Render Targets"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Textures",
+                        "Render Targets",
+                        "Optical Flow"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Textures",
+                        "Render Targets",
+                        "Optical Flow",
+                        "Render Target OFlow"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Textures",
+                        "Render Targets",
+                        "Optical Flow",
+                        "Render Target OFlow Feedback"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Textures",
+                        "Render Targets",
+                        "Optical Flow",
+                        "Render Target Oflow Src Feedback"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Textures",
+                        "Screen Texture"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "Textures",
+                        "iridescence_combined"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "VFX"
+                    ],
+                    [
+                        "Optical Flow VFX Resources",
+                        "VFX",
+                        "optical_flow_vfx"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "87d1fcfcde0d3fb8e4c2a2f8cdbe32fc",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Optical Flow",
+            "applicability": "15",
+            "lens_descriptors": [
+                "SUPPORTS_NEWPORT_DEPTH"
+            ]
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Body.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Body.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1629770616011992:72014"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "1629770616166201:72186"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1629770615996549:71929",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1629770615999093:71939",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1629770615999371:71949",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1629770615999621:71959",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1629770616000013:71973",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1629770616004017:72002",
+                    "name": "Files\/File8.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1629770616011992:72014",
+                    "name": "Files\/File10",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1629770616051768:72044",
+                    "name": "Files\/File12",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1629770616092630:72073",
+                    "name": "Files\/File14",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1629770616132126:72158",
+                    "name": "Files\/File16",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1629770616166201:72186",
+                    "name": "Files\/File18",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1629770616184843:72203",
+                    "name": "Files\/File20",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1629770616201869:72218",
+                    "name": "Files\/File22",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1629770616216710:72237",
+                    "name": "Files\/File24",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1629770616232954:72252",
+                    "name": "Files\/File26.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1629770616235443:72264",
+                    "name": "Files\/File27.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1629770616237982:72276",
+                "4": "1629770616260509:72391",
+                "5": "1629770616281278:72440",
+                "6": "1629770616323678:72658",
+                "7": "1629770616324276:72663"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "5",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "OFlow",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                },
+                {
+                    "layerId": "3",
+                    "layerName": "OFlow FB",
+                    "layerMask": "4",
+                    "colorCode": "1"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "OFlow Src FB",
+                    "layerMask": "16",
+                    "colorCode": "2"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.lsmat"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.lsmat"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.lsmat"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.lsmat"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsvfx"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.lsmat"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.js"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "998",
+                        "v": "Optical Flow VFX Resources"
+                    },
+                    {
+                        "k": "999",
+                        "v": "Optical Flow VFX Resources\/Textures"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "Optical Flow VFX Resources\/Textures\/Render Targets"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "Optical Flow VFX Resources\/Textures\/Render Targets\/Optical Flow"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "Optical Flow VFX Resources\/Textures\/iridescence_combined.png"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "Optical Flow VFX Resources\/Materials"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "Optical Flow VFX Resources\/Materials\/Optical Flow"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "Optical Flow VFX Resources\/Materials\/Optical Flow\/Graph OFlow Src Feedback.lsmat"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "Optical Flow VFX Resources\/Materials\/Optical Flow\/Graph OFlow.lsmat"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "Optical Flow VFX Resources\/Materials\/Optical Flow\/Graph OFlow Fade.lsmat"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "Optical Flow VFX Resources\/Materials\/Optical Flow\/Graph OFlow Feedback.lsmat"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "Optical Flow VFX Resources\/VFX"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "Optical Flow VFX Resources\/VFX\/optical_flow_vfx.lsvfx"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "Optical Flow VFX Resources\/Script"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "Optical Flow VFX Resources\/Script\/Send Camera Data To VFX.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "464f444dfcba88908c256dddc14e2779"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "f86bc3357a22f6436c5d586b9f9aa47e"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "2a2bc38c811b96d446a5217286478e13"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "b11f1b30f5407b5219ad196b69f6c6c3"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "b2fb2394f42f1052d88c63c402f6d95e"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "e6891ba18b0fbdd738f80a2e0ebd2e47"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "f6b7ee58809132b26a1216111488b3a0"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-23T19:04:04",
+                        "name": "Public",
+                        "hash": "f7a977f686ec4472a6acd929e192e6fa",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-23T19:04:04",
+                                "name": "Optical Flow VFX Resources",
+                                "hash": "4cafdb0d453fcc55bfe92352967cbcc0",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-23T19:04:04",
+                                        "name": "Textures",
+                                        "hash": "5c63c0652cac4ec339f41906d95817d8",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-23T19:04:04",
+                                                "name": "Render Targets",
+                                                "hash": "deced35555999891b938d280a2bfb02e",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2021-08-23T19:04:04",
+                                                        "name": "Optical Flow",
+                                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2021-08-23T19:03:35",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-23T19:03:35",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:03:35",
+                                                "name": "iridescence_combined.png",
+                                                "hash": "464f444dfcba88908c256dddc14e2779",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:03:35",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-23T19:04:04",
+                                        "name": "Materials",
+                                        "hash": "643764d017651eb936afb02fa16c46d3",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-23T19:04:04",
+                                                "name": "Optical Flow",
+                                                "hash": "3aa9c5d73d24c64c64e2d8f50a883415",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-23T19:04:04",
+                                                        "name": "Graph OFlow Fade.lsmat",
+                                                        "hash": "0d16640b3a04f51ee4990e70ccf41633",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-23T19:04:04",
+                                                        "name": "Graph OFlow.lsmat",
+                                                        "hash": "7972b62e009b6500b48b45fbb6df719c",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-23T19:04:04",
+                                                        "name": "Graph OFlow Feedback.lsmat",
+                                                        "hash": "84266845377c556054cb1382792022c5",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-23T19:04:04",
+                                                        "name": "Graph OFlow Src Feedback.lsmat",
+                                                        "hash": "42755dd6ad22a0991cb759fdac63ec79",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-23T19:03:36",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:03:36",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-23T19:04:04",
+                                        "name": "Script",
+                                        "hash": "8a53501606c214f9141501bfaff8c302",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:03:35",
+                                                "name": "Send Camera Data To VFX.js",
+                                                "hash": "f6b7ee58809132b26a1216111488b3a0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:03:36",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-23T19:07:52",
+                                        "name": "VFX",
+                                        "hash": "180eef4658e7fb38a92f1e1ea9778039",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:07:52",
+                                                "name": "optical_flow_vfx.lsvfx",
+                                                "hash": "e6891ba18b0fbdd738f80a2e0ebd2e47",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-23T19:03:36",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-23T19:03:35",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": {
+                            "RenderTargetRole": "1"
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Optical Flow VFX Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "998",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "999",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Render Targets",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1000",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Optical Flow",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "1001",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Render Target OFlow",
+                                                        "type": "1",
+                                                        "subtype": "1",
+                                                        "resourceId": "12",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1629770615996549:71929",
+                                                        "fileId": "18446744073709551615",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "RenderTargetRole": "2"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Render Target OFlow Feedback",
+                                                        "type": "1",
+                                                        "subtype": "1",
+                                                        "resourceId": "13",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1629770615999093:71939",
+                                                        "fileId": "18446744073709551615",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "RenderTargetRole": "2"
+                                                        }
+                                                    },
+                                                    {
+                                                        "name": "Render Target Oflow Src Feedback",
+                                                        "type": "1",
+                                                        "subtype": "1",
+                                                        "resourceId": "14",
+                                                        "dependency": "0",
+                                                        "hidden": "false",
+                                                        "uid": "1629770615999371:71949",
+                                                        "fileId": "18446744073709551615",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": {
+                                                            "RenderTargetRole": "2"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Screen Texture",
+                                        "type": "1",
+                                        "subtype": "16",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629770615999621:71959",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Portrait Background Segmentation",
+                                        "type": "1",
+                                        "subtype": "14",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629770616000013:71973",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "iridescence_combined",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629770616004017:72002",
+                                        "fileId": "8",
+                                        "originalId": "9",
+                                        "publicId": "1002",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-xwAMHE\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "464f444dfcba88908c256dddc14e2779"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1003",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Optical Flow",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1004",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Graph OFlow Src Feedback",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "18",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629770616011992:72014",
+                                                "fileId": "10",
+                                                "originalId": "11",
+                                                "publicId": "1005",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Graph OFlow",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "19",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629770616051768:72044",
+                                                "fileId": "12",
+                                                "originalId": "13",
+                                                "publicId": "1006",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Graph OFlow Fade",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "20",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629770616092630:72073",
+                                                "fileId": "14",
+                                                "originalId": "15",
+                                                "publicId": "1007",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Graph OFlow Feedback",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "21",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629770616132126:72158",
+                                                "fileId": "16",
+                                                "originalId": "17",
+                                                "publicId": "1008",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "VFX",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1009",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "optical_flow_vfx",
+                                        "type": "23",
+                                        "subtype": "0",
+                                        "resourceId": "22",
+                                        "dependency": "2",
+                                        "hidden": "false",
+                                        "uid": "1629770616166201:72186",
+                                        "fileId": "18",
+                                        "originalId": "19",
+                                        "publicId": "1010",
+                                        "source": "",
+                                        "additional": {
+                                            "_exteraFile_": [
+                                                "Files\/File18\/vfx.vfxgraph"
+                                            ],
+                                            "GraphFilepathKey": "Files\/File18\/"
+                                        },
+                                        "resources": [
+                                            {
+                                                "name": "System 39",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "1",
+                                                "hidden": "true",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": {
+                                                    "system_id": "39"
+                                                },
+                                                "resources": [
+                                                    {
+                                                        "name": "Rendering",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "23",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629770616184843:72203",
+                                                        "fileId": "20",
+                                                        "originalId": "21",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Feedback",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "24",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629770616201869:72218",
+                                                        "fileId": "22",
+                                                        "originalId": "23",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Simulation",
+                                                        "type": "2",
+                                                        "subtype": "0",
+                                                        "resourceId": "25",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629770616216710:72237",
+                                                        "fileId": "24",
+                                                        "originalId": "25",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Managing",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "26",
+                                                        "dependency": "1",
+                                                        "hidden": "true",
+                                                        "uid": "1629770616232954:72252",
+                                                        "fileId": "26",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-xwAMHE\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Script",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1011",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Send Camera Data To VFX",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629770616235443:72264",
+                                        "fileId": "27",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "1012",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-xwAMHE\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1629770616237982:72276"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": ""
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1629770615996549:71929",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770615999093:71939",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770615999371:71949",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770615999621:71959",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616000013:71973",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616004017:72002",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616011992:72014",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616051768:72044",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616092630:72073",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616132126:72158",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616184843:72203",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616201869:72218",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616216710:72237",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616232954:72252",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616235443:72264",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                },
+                {
+                    "k": "1629770616237982:72276",
+                    "v": "49Pm98AqGiWDgUjQbQr9V3"
+                }
+            ]
+        }
+    }
+}

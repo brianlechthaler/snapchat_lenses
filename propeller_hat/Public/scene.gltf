@@ -1,0 +1,447 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 921,
+      "max": [
+        12.300307273864746,
+        14.743236541748047,
+        19.339332580566406
+      ],
+      "min": [
+        -12.300307273864746,
+        -3.0536139011383057,
+        -12.300307273864746
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 11052,
+      "componentType": 5126,
+      "count": 921,
+      "max": [
+        0.99997228384017944,
+        1,
+        0.99997878074645996
+      ],
+      "min": [
+        -0.99997228384017944,
+        -1,
+        -0.99997878074645996
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 921,
+      "max": [
+        1,
+        0.99986732006072998,
+        0.99997049570083618,
+        1
+      ],
+      "min": [
+        -0.99997049570083618,
+        -0.99994838237762451,
+        -0.99997049570083618,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 921,
+      "max": [
+        0.991363525390625,
+        0.99188780784606934
+      ],
+      "min": [
+        0.014174938201904297,
+        0.00390625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3393,
+      "max": [
+        920
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 22104,
+      "componentType": 5126,
+      "count": 1066,
+      "max": [
+        7.7354607582092285,
+        1.081413745880127,
+        5.9975166320800781
+      ],
+      "min": [
+        -7.7354607582092285,
+        -1.081413745880127,
+        -5.9975166320800781
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 34896,
+      "componentType": 5126,
+      "count": 1066,
+      "max": [
+        0.99716895818710327,
+        0.99996107816696167,
+        0.99982059001922607
+      ],
+      "min": [
+        -0.99285340309143066,
+        -0.99960684776306152,
+        -0.98135614395141602
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 14736,
+      "componentType": 5126,
+      "count": 1066,
+      "max": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 7368,
+      "componentType": 5126,
+      "count": 1066,
+      "max": [
+        0,
+        0
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 13572,
+      "componentType": 5125,
+      "count": 6060,
+      "max": [
+        1065
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "tamzidfarhan (https://sketchfab.com/tamzidfarhan)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/ac50695f2ab24b2382ab7ebb8ba89d2d",
+      "title": "Propeller Hat"
+    },
+    "generator": "Sketchfab-3.19.8",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 37812,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15896,
+      "byteOffset": 37812,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 47688,
+      "byteOffset": 53708,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31792,
+      "byteOffset": 101396,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 133188,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Scene_-_Root_diffuse.png"
+    },
+    {
+      "uri": "textures/Scene_-_Root_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/Scene_-_Root_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.84927591459999996,
+            0.84927591459999996,
+            0.84927591459999996,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "glossinessFactor": 1,
+          "specularFactor": [
+            0,
+            0,
+            0
+          ],
+          "specularGlossinessTexture": {
+            "index": 1,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Scene_-_Root",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hat__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Propeller__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "ea4a7721b4f34bd6aa06282202a097a4.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        7
+      ],
+      "name": "Hat_Solo"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        0.73471319422753978,
+        0,
+        0.060387060230602037,
+        0,
+        0,
+        0.76520639657974243,
+        0,
+        0,
+        -0.068399121790115258,
+        0,
+        0.83219380213026639,
+        0,
+        0.12842196226119995,
+        0.1010483056306839,
+        -0.072355784475803375,
+        1
+      ],
+      "name": "Hat"
+    },
+    {
+      "mesh": 0,
+      "name": "Hat__0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.3539862368597448,
+        -0.047441678064428228,
+        0.11128593998181813,
+        0,
+        0.057592491670477565,
+        1.3524735125911185,
+        -0.12414711234437247,
+        0,
+        -0.10638786659385387,
+        0.12836934128790806,
+        1.3491170953329943,
+        0,
+        0.17482393980026245,
+        10.932872772216797,
+        0.053701311349868774,
+        1
+      ],
+      "name": "Propeller"
+    },
+    {
+      "mesh": 1,
+      "name": "Propeller__0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+

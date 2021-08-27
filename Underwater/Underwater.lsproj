@@ -1,0 +1,1796 @@
+{
+    "lens_id": "",
+    "document_id": "LNUpedyqa6bFDGhuEV9M",
+    "original_document_id": "LNUpedyqa6bFDGhuEV9M",
+    "version": "28",
+    "lastChanged": "1629680133267",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Info Card [DELETE_ME]"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Info Card [DELETE_ME]",
+                        "Fonts"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Info Card [DELETE_ME]",
+                        "Fonts",
+                        "Lato-Bold"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Info Card [DELETE_ME]",
+                        "Fonts",
+                        "Lato-Regular"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Info Card [DELETE_ME]",
+                        "Materials"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Info Card [DELETE_ME]",
+                        "Materials",
+                        "info_card"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Info Card [DELETE_ME]",
+                        "Textures"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Info Card [DELETE_ME]",
+                        "Textures",
+                        "info_card"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Materials"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Materials",
+                        "Color Correction"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Materials",
+                        "Color Correction",
+                        "hard_ligt_unlit"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Materials",
+                        "Color Correction",
+                        "lookup"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Materials",
+                        "Color Correction",
+                        "soft_ligt_unlit"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Materials",
+                        "Depth"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Materials",
+                        "Depth",
+                        "depth_displacement"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Materials",
+                        "Depth",
+                        "fog"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Materials",
+                        "Underwater"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Materials",
+                        "Underwater",
+                        "background_displacement"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Materials",
+                        "Underwater",
+                        "caustics"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Meshes"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Meshes",
+                        "caustics_sphere"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Textures",
+                        "Caustics Sphere Output"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Textures",
+                        "Depth Texture"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Textures",
+                        "Screen Texture"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Textures",
+                        "caustics"
+                    ],
+                    [
+                        "Underwater Depth Post Effect Resources",
+                        "Textures",
+                        "lut"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1629679828948063:46186"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "987b0326dcd7e8efb6c3f3adf5798ec4",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Underwater",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1629679828143247:45601"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1629679828028092:45523",
+                    "name": "Files\/File8.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1629679828050479:45539",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1629679828051847:45549",
+                    "name": "Depth Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1629679828058495:45559",
+                    "name": "Files\/File10.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1629679828065267:45575",
+                    "name": "Screen Texture",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1629679828067705:45585",
+                    "name": "Files\/File12.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1629679828143247:45601",
+                    "name": "Files\/File15",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1629679828211050:45632",
+                    "name": "Files\/File17",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1629679828251788:45675",
+                    "name": "Files\/File19",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1629679828287744:45703",
+                    "name": "Files\/File21",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1629679828331915:45818",
+                    "name": "Files\/File23",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1629679828377026:45846",
+                    "name": "Files\/File25",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1629679828438979:45870",
+                    "name": "Files\/File27",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1629679828485845:45898",
+                    "name": "Files\/File29.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1629679828564449:45914",
+                    "name": "Files\/File32.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1629679828572870:45926",
+                    "name": "Files\/File33.ttf",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1629679828588137:45938",
+                    "name": "Files\/File34",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1629679828659909:45962",
+                "4": "1629679828690625:45968",
+                "5": "1629679828833669:46031",
+                "6": "1629679828893912:46093",
+                "7": "1629679828948063:46186",
+                "8": "1629679828948258:46188",
+                "9": "1629679828997775:46237",
+                "10": "1629679829033531:46286"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Underwater",
+                    "layerMask": "32",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.mesh"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.pvr"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.png"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.png"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.lsmat"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.lsmat"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.lsmat"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.lsmat"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.pvr"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.ttf"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.ttf"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.lsmat"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.pvr"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.pvr"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "Underwater Depth Post Effect Resources"
+                    },
+                    {
+                        "k": "969",
+                        "v": "Underwater Depth Post Effect Resources\/Meshes"
+                    },
+                    {
+                        "k": "970",
+                        "v": "Underwater Depth Post Effect Resources\/Meshes\/caustics_sphere.mesh"
+                    },
+                    {
+                        "k": "971",
+                        "v": "Underwater Depth Post Effect Resources\/Textures"
+                    },
+                    {
+                        "k": "972",
+                        "v": "Underwater Depth Post Effect Resources\/Textures\/lut.png"
+                    },
+                    {
+                        "k": "973",
+                        "v": "Underwater Depth Post Effect Resources\/Textures\/caustics.png"
+                    },
+                    {
+                        "k": "974",
+                        "v": "Underwater Depth Post Effect Resources\/Materials"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Underwater Depth Post Effect Resources\/Materials\/Depth"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Underwater Depth Post Effect Resources\/Materials\/Depth\/fog.lsmat"
+                    },
+                    {
+                        "k": "977",
+                        "v": "Underwater Depth Post Effect Resources\/Materials\/Depth\/depth_displacement.lsmat"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Underwater Depth Post Effect Resources\/Materials\/Color Correction"
+                    },
+                    {
+                        "k": "979",
+                        "v": "Underwater Depth Post Effect Resources\/Materials\/Color Correction\/soft_ligt_unlit.lsmat"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Underwater Depth Post Effect Resources\/Materials\/Color Correction\/hard_ligt_unlit.lsmat"
+                    },
+                    {
+                        "k": "981",
+                        "v": "Underwater Depth Post Effect Resources\/Materials\/Color Correction\/lookup.lsmat"
+                    },
+                    {
+                        "k": "982",
+                        "v": "Underwater Depth Post Effect Resources\/Materials\/Underwater"
+                    },
+                    {
+                        "k": "983",
+                        "v": "Underwater Depth Post Effect Resources\/Materials\/Underwater\/background_displacement.lsmat"
+                    },
+                    {
+                        "k": "984",
+                        "v": "Underwater Depth Post Effect Resources\/Materials\/Underwater\/caustics.lsmat"
+                    },
+                    {
+                        "k": "985",
+                        "v": "Underwater Depth Post Effect Resources\/Info Card [DELETE_ME]"
+                    },
+                    {
+                        "k": "986",
+                        "v": "Underwater Depth Post Effect Resources\/Info Card [DELETE_ME]\/Textures"
+                    },
+                    {
+                        "k": "987",
+                        "v": "Underwater Depth Post Effect Resources\/Info Card [DELETE_ME]\/Textures\/info_card.png"
+                    },
+                    {
+                        "k": "988",
+                        "v": "Underwater Depth Post Effect Resources\/Info Card [DELETE_ME]\/Fonts"
+                    },
+                    {
+                        "k": "989",
+                        "v": "Underwater Depth Post Effect Resources\/Info Card [DELETE_ME]\/Fonts\/Lato-Bold.ttf"
+                    },
+                    {
+                        "k": "990",
+                        "v": "Underwater Depth Post Effect Resources\/Info Card [DELETE_ME]\/Fonts\/Lato-Regular.ttf"
+                    },
+                    {
+                        "k": "991",
+                        "v": "Underwater Depth Post Effect Resources\/Info Card [DELETE_ME]\/Materials"
+                    },
+                    {
+                        "k": "992",
+                        "v": "Underwater Depth Post Effect Resources\/Info Card [DELETE_ME]\/Materials\/info_card.lsmat"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "970",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "972",
+                        "v": "1a718d6bb4b5e046041885f36265bcf2"
+                    },
+                    {
+                        "k": "973",
+                        "v": "37f810e364af92be90c086502307cc90"
+                    },
+                    {
+                        "k": "976",
+                        "v": "5f13d297c05f8aac4476792d3c85c7eb"
+                    },
+                    {
+                        "k": "977",
+                        "v": "60a584a6ab01f1abafa3537174faf586"
+                    },
+                    {
+                        "k": "979",
+                        "v": "b65bf37c029f6a2bbd135d09e67f5047"
+                    },
+                    {
+                        "k": "980",
+                        "v": "9b27a4bf8cfa7c541fd94c9e55320ecd"
+                    },
+                    {
+                        "k": "981",
+                        "v": "a203e48d77aff4308aba4d3024a2fb6c"
+                    },
+                    {
+                        "k": "983",
+                        "v": "ae7626425b469216e18cbb496602d6e6"
+                    },
+                    {
+                        "k": "984",
+                        "v": "fc98cbdb98cceefd3dfd249fa63e1d79"
+                    },
+                    {
+                        "k": "987",
+                        "v": "a6e321bed066b22e0e725b65c13f0a6a"
+                    },
+                    {
+                        "k": "989",
+                        "v": "85d339d916479f729938d2911b85bf1f"
+                    },
+                    {
+                        "k": "990",
+                        "v": "2d36b1a925432bae7f3c53a340868c6e"
+                    },
+                    {
+                        "k": "992",
+                        "v": "e6bcb600719fc0d3e325515980bf3eb6"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-22T17:52:12",
+                        "name": "Public",
+                        "hash": "38a12a37e0dcdf372a400762257550db",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-22T17:52:12",
+                                "name": "Underwater Depth Post Effect Resources",
+                                "hash": "d7baaa62902316ba75667a5611cab65b",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-22T17:52:12",
+                                        "name": "Textures",
+                                        "hash": "22d9929aa55d45e7a66304bea2576687",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-22T17:50:27",
+                                                "name": "lut.png",
+                                                "hash": "1a718d6bb4b5e046041885f36265bcf2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-22T17:50:27",
+                                                "name": "caustics.png",
+                                                "hash": "37f810e364af92be90c086502307cc90",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-22T17:50:28",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-22T17:52:12",
+                                        "name": "Materials",
+                                        "hash": "f738727415935092309f973f35bfed7b",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-22T17:55:26",
+                                                "name": "Depth",
+                                                "hash": "b7d42f666ec97065c3a325f5c85311d4",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:55:26",
+                                                        "name": "depth_displacement.lsmat",
+                                                        "hash": "60835af5b5d2e5bf9e8a40b022c2b715",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:55:26",
+                                                        "name": "fog.lsmat",
+                                                        "hash": "3d5750f3645e37ba767d8ad89168e005",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:50:28",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-22T17:55:26",
+                                                "name": "Color Correction",
+                                                "hash": "44e4710dc75b94153eaab865c45b821d",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:55:26",
+                                                        "name": "hard_ligt_unlit.lsmat",
+                                                        "hash": "2688dc8183cc2bdc6aeb1d4de658f8ab",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:55:26",
+                                                        "name": "soft_ligt_unlit.lsmat",
+                                                        "hash": "1bdf2be557edd01f80cb015acea1be2f",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:55:26",
+                                                        "name": "lookup.lsmat",
+                                                        "hash": "960138ac0a1a9df718557b7b35ae849c",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:50:28",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-22T17:55:26",
+                                                "name": "Underwater",
+                                                "hash": "6f5a9baf8f6037f7c55584084291b1f8",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:55:26",
+                                                        "name": "caustics.lsmat",
+                                                        "hash": "c069de35a27dc5fef1c5d619fe60576e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:55:26",
+                                                        "name": "background_displacement.lsmat",
+                                                        "hash": "0f0ccf52bf180a29f508b7efdc533faa",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:50:28",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-22T17:50:28",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-22T17:52:12",
+                                        "name": "Info Card [DELETE_ME]",
+                                        "hash": "b99d92a8c232d6fc2586bc7bc83742c7",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-22T17:52:12",
+                                                "name": "Textures",
+                                                "hash": "14003f53f77a24206c6f09889610bfaa",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:50:27",
+                                                        "name": "info_card.png",
+                                                        "hash": "a6e321bed066b22e0e725b65c13f0a6a",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:50:28",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-22T17:55:26",
+                                                "name": "Materials",
+                                                "hash": "fadea1a448282557cfca79874a064d69",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:55:26",
+                                                        "name": "info_card.lsmat",
+                                                        "hash": "1ed3c028d473e1f06b6d1601f8aaee55",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:50:28",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2021-08-22T17:52:12",
+                                                "name": "Fonts",
+                                                "hash": "7070b3bfd3a533084be7dd5041a103eb",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:50:27",
+                                                        "name": "Lato-Bold.ttf",
+                                                        "hash": "85d339d916479f729938d2911b85bf1f",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:50:27",
+                                                        "name": "Lato-Regular.ttf",
+                                                        "hash": "2d36b1a925432bae7f3c53a340868c6e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2021-08-22T17:50:28",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-22T17:50:28",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-22T17:52:12",
+                                        "name": "Meshes",
+                                        "hash": "1ceb84d17fd3dffd9f7f366402aac97a",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-22T17:50:27",
+                                                "name": "caustics_sphere.mesh",
+                                                "hash": "0484abd87ee78b2745eb9563b19fd6a2",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-22T17:50:28",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-22T17:50:28",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": {
+                            "RenderTargetRole": "1"
+                        }
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Underwater Depth Post Effect Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "968",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "969",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "caustics_sphere",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "12",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629679828028092:45523",
+                                        "fileId": "8",
+                                        "originalId": "9",
+                                        "publicId": "970",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-XCrcXJ\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "971",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Caustics Sphere Output",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629679828050479:45539",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": {
+                                            "RenderTargetRole": "2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Depth Texture",
+                                        "type": "1",
+                                        "subtype": "15",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629679828051847:45549",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "lut",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629679828058495:45559",
+                                        "fileId": "10",
+                                        "originalId": "11",
+                                        "publicId": "972",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-XCrcXJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "1a718d6bb4b5e046041885f36265bcf2"
+                                        }
+                                    },
+                                    {
+                                        "name": "Screen Texture",
+                                        "type": "1",
+                                        "subtype": "16",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629679828065267:45575",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "caustics",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1629679828067705:45585",
+                                        "fileId": "12",
+                                        "originalId": "13",
+                                        "publicId": "973",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-XCrcXJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "37f810e364af92be90c086502307cc90"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "974",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Depth",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "975",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "fog",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "18",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629679828143247:45601",
+                                                "fileId": "15",
+                                                "originalId": "16",
+                                                "publicId": "976",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "depth_displacement",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "19",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629679828211050:45632",
+                                                "fileId": "17",
+                                                "originalId": "18",
+                                                "publicId": "977",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Color Correction",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "978",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "soft_ligt_unlit",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "20",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629679828251788:45675",
+                                                "fileId": "19",
+                                                "originalId": "20",
+                                                "publicId": "979",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "hard_ligt_unlit",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "21",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629679828287744:45703",
+                                                "fileId": "21",
+                                                "originalId": "22",
+                                                "publicId": "980",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "lookup",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "22",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629679828331915:45818",
+                                                "fileId": "23",
+                                                "originalId": "24",
+                                                "publicId": "981",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Underwater",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "982",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "background_displacement",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "23",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629679828377026:45846",
+                                                "fileId": "25",
+                                                "originalId": "26",
+                                                "publicId": "983",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "caustics",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "24",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629679828438979:45870",
+                                                "fileId": "27",
+                                                "originalId": "28",
+                                                "publicId": "984",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Info Card [DELETE_ME]",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "985",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "986",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "info_card",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "25",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629679828485845:45898",
+                                                "fileId": "29",
+                                                "originalId": "30",
+                                                "publicId": "987",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-XCrcXJ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                                "additional": {
+                                                    "originHash": "a6e321bed066b22e0e725b65c13f0a6a"
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fonts",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "988",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Lato-Bold",
+                                                "type": "13",
+                                                "subtype": "0",
+                                                "resourceId": "26",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629679828564449:45914",
+                                                "fileId": "32",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "989",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-XCrcXJ\/\/system\/\/emergencyFiles\/emergencyTtf.ttf",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Lato-Regular",
+                                                "type": "13",
+                                                "subtype": "0",
+                                                "resourceId": "27",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629679828572870:45926",
+                                                "fileId": "33",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "990",
+                                                "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-XCrcXJ\/\/system\/\/emergencyFiles\/emergencyTtf.ttf",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "991",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "info_card",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "28",
+                                                "dependency": "0",
+                                                "hidden": "false",
+                                                "uid": "1629679828588137:45938",
+                                                "fileId": "34",
+                                                "originalId": "35",
+                                                "publicId": "992",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1629679828067705:45585",
+                    "v": {
+                        "infos": {
+                            "originalSize": "102219",
+                            "compressedSize": "29106",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "14",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "37f810e364af92be90c086502307cc90",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "37"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1629679828485845:45898",
+                    "v": {
+                        "infos": {
+                            "originalSize": "9940",
+                            "compressedSize": "6116",
+                            "originalRAM": "2560000",
+                            "compressedRAM": "320000",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "31",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "a6e321bed066b22e0e725b65c13f0a6a",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "36"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1629679828028092:45523",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828050479:45539",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828051847:45549",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828058495:45559",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828065267:45575",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828067705:45585",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828143247:45601",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828211050:45632",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828251788:45675",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828287744:45703",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828331915:45818",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828377026:45846",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828438979:45870",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828485845:45898",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828564449:45914",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828572870:45926",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828588137:45938",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                },
+                {
+                    "k": "1629679828659909:45962",
+                    "v": "7oWB8wFDHuPixWMpGTYnT1"
+                }
+            ]
+        }
+    }
+}

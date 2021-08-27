@@ -1,0 +1,2348 @@
+{
+    "lens_id": "",
+    "document_id": "24qNeQt7A58wAI8R0xo8",
+    "original_document_id": "24qNeQt7A58wAI8R0xo8",
+    "version": "28",
+    "lastChanged": "1628368134158",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Appstore",
+            "major": "4",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Cupcake Resources"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Materials"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Materials",
+                        "cake"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Materials",
+                        "candle_body"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Materials",
+                        "candle_swirl"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Materials",
+                        "cream"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Materials",
+                        "ele"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Materials",
+                        "sprinkle_1"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Materials",
+                        "sprinkle_2"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Materials",
+                        "sprinkle_3"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Materials",
+                        "wrapper"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Meshes"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Meshes",
+                        "cake"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Meshes",
+                        "candle_1"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Meshes",
+                        "candle_2"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Meshes",
+                        "cream"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Meshes",
+                        "ele"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Meshes",
+                        "sprinkle"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Meshes",
+                        "sprinkle_1"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Meshes",
+                        "sprinkle_2"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Meshes",
+                        "wrapper"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Particles"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Particles",
+                        "particles_emitter_material"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Particles",
+                        "particles_mesh"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Particles",
+                        "particles_texture"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Textures",
+                        "cake_params"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Textures",
+                        "ele"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Textures",
+                        "icing_nrm"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Textures",
+                        "white"
+                    ],
+                    [
+                        "Cupcake Resources",
+                        "Textures",
+                        "wrapper_base"
+                    ],
+                    [
+                        "Cupcake__PLACE_IN_OBJECTS_PANEL"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "72da114b2354af9c356e014e4a220f5f",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Cupcake Hat",
+            "applicability": "15",
+            "lens_descriptors": [
+                "SUPPORTS_NEWPORT_DEPTH"
+            ]
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1628365981746952:82846"
+                ]
+            ]
+        },
+        "ObjectTracking3DUIComponent": {
+            "foldedOwnerSceneObjects": ""
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        },
+        "VFX::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1628365964757529:79630",
+                    "name": "sceneObject_0",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1628365964890003:79859",
+                    "name": "Files\/File9.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1628365964917443:79879",
+                    "name": "Files\/File11.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1628365964934202:79899",
+                    "name": "Files\/File13.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1628365964951945:79915",
+                    "name": "Files\/File15.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1628365964970279:79935",
+                    "name": "Files\/File17.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1628365964991421:79951",
+                    "name": "Files\/File19.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1628365965013090:79971",
+                    "name": "Files\/File21.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1628365965038144:79991",
+                    "name": "Files\/File23.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1628365965046291:80003",
+                    "name": "Files\/File25",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1628365965070213:80022",
+                    "name": "Files\/File27",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1628365965092799:80037",
+                    "name": "Files\/File29",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1628365965123078:80056",
+                    "name": "Files\/File31",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1628365965148205:80075",
+                    "name": "Files\/File33",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1628365965176539:80094",
+                    "name": "Files\/File35.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1628365965300179:80110",
+                    "name": "Files\/File38.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1628365965454352:80126",
+                    "name": "Files\/File41",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1628365965536385:80149",
+                    "name": "Files\/File43.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1628365965559851:80169",
+                    "name": "Files\/File45.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1628365965570710:80181",
+                    "name": "Files\/File47",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1628365965610343:80200",
+                    "name": "Files\/File49",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1628365965648516:80219",
+                    "name": "Files\/File51",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1628365965682863:80238",
+                    "name": "Files\/File53.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1628365965840591:80254",
+                    "name": "Files\/File56.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1628365965944705:80270",
+                    "name": "Files\/File59.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1628365965958265:80282",
+                    "name": "Files\/File62",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1628365966024722:80309",
+                    "name": "Files\/File64.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1628365981746437:82845",
+                "4": "1628365981746952:82846",
+                "5": "1628365981883328:82870",
+                "6": "1628365988450316:84354",
+                "7": "1628365988451571:84402",
+                "8": "1628365988453716:84428",
+                "9": "1628365988455928:84457",
+                "10": "1628365988458455:84486",
+                "11": "1628365988461810:84521",
+                "12": "1628365988463858:84550",
+                "13": "1628365988466117:84579"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.oprfb"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.mesh"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.mesh"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.mesh"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.mesh"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.mesh"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.mesh"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.mesh"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.mesh"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.mesh"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.mesh"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.mesh"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.mesh"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.mesh"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.mesh"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.lsmat"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.lsmat"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.lsmat"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.lsmat"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.lsmat"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.pvr"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.jpg"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.jpg"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40.jpg"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.lsmat"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.mesh"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.mesh"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.mesh"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.mesh"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.lsmat"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.lsmat"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.jpg"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.jpg"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.jpg"
+                },
+                {
+                    "k": "56",
+                    "v": "Files\/File56.jpg"
+                },
+                {
+                    "k": "57",
+                    "v": "Files\/File57.jpg"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.jpg"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.pvr"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.png"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.png"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.lsmat"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.mesh"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.mesh"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.jpg"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.jpg"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.oprfb"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.pvr"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.jpg"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.pvr"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "994",
+                        "v": "Cupcake Resources"
+                    },
+                    {
+                        "k": "995",
+                        "v": "Cupcake Resources\/Textures"
+                    },
+                    {
+                        "k": "996",
+                        "v": "Cupcake Resources\/Textures\/white.png"
+                    },
+                    {
+                        "k": "997",
+                        "v": "Cupcake Resources\/Meshes"
+                    },
+                    {
+                        "k": "998",
+                        "v": "Cupcake Resources\/Meshes\/candle_1.mesh"
+                    },
+                    {
+                        "k": "999",
+                        "v": "Cupcake Resources\/Meshes\/candle_2.mesh"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "Cupcake Resources\/Meshes\/ele.mesh"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "Cupcake Resources\/Meshes\/sprinkle.mesh"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "Cupcake Resources\/Meshes\/cream.mesh"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "Cupcake Resources\/Meshes\/cake.mesh"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "Cupcake Resources\/Meshes\/wrapper.mesh"
+                    },
+                    {
+                        "k": "1005",
+                        "v": "Cupcake Resources\/Materials"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "Cupcake Resources\/Materials\/candle_body.lsmat"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "Cupcake Resources\/Materials\/candle_swirl.lsmat"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "Cupcake Resources\/Materials\/cream.lsmat"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "Cupcake Resources\/Materials\/cake.lsmat"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "Cupcake Resources\/Materials\/wrapper.lsmat"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "Cupcake Resources\/Textures\/ele.png"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "Cupcake Resources\/Textures\/icing_nrm.jpg"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "Cupcake Resources\/Materials\/ele.lsmat"
+                    },
+                    {
+                        "k": "1014",
+                        "v": "Cupcake Resources\/Meshes\/sprinkle_1.mesh"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "Cupcake Resources\/Meshes\/sprinkle_2.mesh"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "Cupcake Resources\/Materials\/sprinkle_1.lsmat"
+                    },
+                    {
+                        "k": "1017",
+                        "v": "Cupcake Resources\/Materials\/sprinkle_2.lsmat"
+                    },
+                    {
+                        "k": "1018",
+                        "v": "Cupcake Resources\/Materials\/sprinkle_3.lsmat"
+                    },
+                    {
+                        "k": "1019",
+                        "v": "Cupcake Resources\/Textures\/cake_params.jpg"
+                    },
+                    {
+                        "k": "1020",
+                        "v": "Cupcake Resources\/Textures\/wrapper_base.jpg"
+                    },
+                    {
+                        "k": "1021",
+                        "v": "Cupcake Resources\/Particles"
+                    },
+                    {
+                        "k": "1022",
+                        "v": "Cupcake Resources\/Particles\/particles_texture.png"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "Cupcake Resources\/Particles\/particles_emitter_material.lsmat"
+                    },
+                    {
+                        "k": "1024",
+                        "v": "Cupcake Resources\/Particles\/particles_mesh.mesh"
+                    },
+                    {
+                        "k": "1025",
+                        "v": "Cupcake__PLACE_IN_OBJECTS_PANEL.oprfb"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "996",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "998",
+                        "v": "d330c2bf7ab6a506448bfa4d7a9d247e"
+                    },
+                    {
+                        "k": "999",
+                        "v": "ea1f035e0c3a10de402a5fae03a6bc78"
+                    },
+                    {
+                        "k": "1000",
+                        "v": "a0a9f36ab0a70b162e116432e401b490"
+                    },
+                    {
+                        "k": "1001",
+                        "v": "95fd89cfd0d3d03b499fcf2adfa26049"
+                    },
+                    {
+                        "k": "1002",
+                        "v": "c776b3658285191cbf7d3fcea2e40ffd"
+                    },
+                    {
+                        "k": "1003",
+                        "v": "3f67dd17260f49a162c3d0fb735a9c4e"
+                    },
+                    {
+                        "k": "1004",
+                        "v": "e3a213b7dad09cbd84844bb53b5c96e1"
+                    },
+                    {
+                        "k": "1006",
+                        "v": "740e4f458a556b65e23981a48ba4cb43"
+                    },
+                    {
+                        "k": "1007",
+                        "v": "1954bf0e11e4995f076a9cb1335b23a8"
+                    },
+                    {
+                        "k": "1008",
+                        "v": "5e6337fa5cbf5b1ab1e46b4309a6c3cf"
+                    },
+                    {
+                        "k": "1009",
+                        "v": "2bd132e9f354818f31c021ca88654344"
+                    },
+                    {
+                        "k": "1010",
+                        "v": "a11edf828a9464a8785a37c14784079a"
+                    },
+                    {
+                        "k": "1011",
+                        "v": "433a4d28382f88e3734bc73a33ab9111"
+                    },
+                    {
+                        "k": "1012",
+                        "v": "9652a0931a93fb1ba10618369069bb87"
+                    },
+                    {
+                        "k": "1013",
+                        "v": "863f060852e6a3f2b5dbe7dba5088478"
+                    },
+                    {
+                        "k": "1014",
+                        "v": "d3f058a435695b6ea1b50ca38d0e52d9"
+                    },
+                    {
+                        "k": "1015",
+                        "v": "b6004ff6adec92feeb72dd4d9d700dec"
+                    },
+                    {
+                        "k": "1016",
+                        "v": "1e34034a5887ec34f8a414f76a13d6b5"
+                    },
+                    {
+                        "k": "1017",
+                        "v": "ee474bc5ee3c29c0dfa611c643603854"
+                    },
+                    {
+                        "k": "1018",
+                        "v": "c687d7b4c5e6ea3312f331e94de3e3e1"
+                    },
+                    {
+                        "k": "1019",
+                        "v": "2602d939208612294df6e20d26f9d080"
+                    },
+                    {
+                        "k": "1020",
+                        "v": "eba8a7ae22868d293f37b44f5ffea4e7"
+                    },
+                    {
+                        "k": "1022",
+                        "v": "633e6164fd04c2de5d7f0ed88b3dd76d"
+                    },
+                    {
+                        "k": "1023",
+                        "v": "5bc3976e9a7fb6322fcfe5bc89dc8085"
+                    },
+                    {
+                        "k": "1024",
+                        "v": "a5adcbdb568b3556fe3d03137cb05292"
+                    },
+                    {
+                        "k": "1025",
+                        "v": "1e6fec6d7b9a93cfe48c2fe943c9f72c"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2021-08-07T12:52:46",
+                        "name": "Public",
+                        "hash": "dc7319a0cea3e836a3fd5cc79f3458be",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-08-07T12:52:44",
+                                "name": "Cupcake__PLACE_IN_OBJECTS_PANEL.oprfb",
+                                "hash": "1e6fec6d7b9a93cfe48c2fe943c9f72c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2021-08-07T12:52:45",
+                                "name": "Cupcake Resources",
+                                "hash": "d38f905c4d6392380d9b171cdf14aa4a",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-07T12:52:45",
+                                        "name": "Textures",
+                                        "hash": "981a49882999a8b80973ee4b4e05cc13",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "wrapper_base.jpg",
+                                                "hash": "eba8a7ae22868d293f37b44f5ffea4e7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "cake_params.jpg",
+                                                "hash": "2602d939208612294df6e20d26f9d080",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "icing_nrm.jpg",
+                                                "hash": "9652a0931a93fb1ba10618369069bb87",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "ele.png",
+                                                "hash": "433a4d28382f88e3734bc73a33ab9111",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "white.png",
+                                                "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-07T12:52:47",
+                                        "name": "Materials",
+                                        "hash": "dd60fe3b3ef2982c6a752b752af6b11e",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:47",
+                                                "name": "cake.lsmat",
+                                                "hash": "2bd132e9f354818f31c021ca88654344",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:47",
+                                                "name": "candle_swirl.lsmat",
+                                                "hash": "1954bf0e11e4995f076a9cb1335b23a8",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:47",
+                                                "name": "candle_body.lsmat",
+                                                "hash": "740e4f458a556b65e23981a48ba4cb43",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:47",
+                                                "name": "ele.lsmat",
+                                                "hash": "863f060852e6a3f2b5dbe7dba5088478",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:47",
+                                                "name": "sprinkle_2.lsmat",
+                                                "hash": "ee474bc5ee3c29c0dfa611c643603854",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:47",
+                                                "name": "wrapper.lsmat",
+                                                "hash": "a11edf828a9464a8785a37c14784079a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:47",
+                                                "name": "sprinkle_3.lsmat",
+                                                "hash": "c687d7b4c5e6ea3312f331e94de3e3e1",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:47",
+                                                "name": "sprinkle_1.lsmat",
+                                                "hash": "1e34034a5887ec34f8a414f76a13d6b5",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:47",
+                                                "name": "cream.lsmat",
+                                                "hash": "5e6337fa5cbf5b1ab1e46b4309a6c3cf",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:45",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-07T12:52:47",
+                                        "name": "Particles",
+                                        "hash": "53b13541f9e0955b6dfd24155d4875d7",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "particles_mesh.mesh",
+                                                "hash": "a5adcbdb568b3556fe3d03137cb05292",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "particles_texture.png",
+                                                "hash": "633e6164fd04c2de5d7f0ed88b3dd76d",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:47",
+                                                "name": "particles_emitter_material.lsmat",
+                                                "hash": "5bc3976e9a7fb6322fcfe5bc89dc8085",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:45",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2021-08-07T12:52:45",
+                                        "name": "Meshes",
+                                        "hash": "8e54b3856ebedc79f8246ec033d5e2bf",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "cake.mesh",
+                                                "hash": "3f67dd17260f49a162c3d0fb735a9c4e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "wrapper.mesh",
+                                                "hash": "e3a213b7dad09cbd84844bb53b5c96e1",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "candle_1.mesh",
+                                                "hash": "d330c2bf7ab6a506448bfa4d7a9d247e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "sprinkle_1.mesh",
+                                                "hash": "d3f058a435695b6ea1b50ca38d0e52d9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "sprinkle_2.mesh",
+                                                "hash": "b6004ff6adec92feeb72dd4d9d700dec",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "candle_2.mesh",
+                                                "hash": "ea1f035e0c3a10de402a5fae03a6bc78",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "ele.mesh",
+                                                "hash": "a0a9f36ab0a70b162e116432e401b490",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "sprinkle.mesh",
+                                                "hash": "95fd89cfd0d3d03b499fcf2adfa26049",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "cream.mesh",
+                                                "hash": "c776b3658285191cbf7d3fcea2e40ffd",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2021-08-07T12:52:44",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2021-08-07T12:52:44",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2021-07-21T06:40:06",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "hidden": "false",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "hidden": "false",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cupcake Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "994",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "995",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "white",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365964890003:79859",
+                                        "fileId": "9",
+                                        "originalId": "10",
+                                        "publicId": "996",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "0c8dcfed2f50bb81ac5276a14967c005"
+                                        }
+                                    },
+                                    {
+                                        "name": "ele",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "26",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965176539:80094",
+                                        "fileId": "35",
+                                        "originalId": "36",
+                                        "publicId": "1011",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "433a4d28382f88e3734bc73a33ab9111"
+                                        }
+                                    },
+                                    {
+                                        "name": "icing_nrm",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965300179:80110",
+                                        "fileId": "38",
+                                        "originalId": "39",
+                                        "publicId": "1012",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "9652a0931a93fb1ba10618369069bb87"
+                                        }
+                                    },
+                                    {
+                                        "name": "cake_params",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "34",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965682863:80238",
+                                        "fileId": "53",
+                                        "originalId": "54",
+                                        "publicId": "1019",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "2602d939208612294df6e20d26f9d080"
+                                        }
+                                    },
+                                    {
+                                        "name": "wrapper_base",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "35",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965840591:80254",
+                                        "fileId": "56",
+                                        "originalId": "57",
+                                        "publicId": "1020",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "eba8a7ae22868d293f37b44f5ffea4e7"
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "997",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "candle_1",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365964917443:79879",
+                                        "fileId": "11",
+                                        "originalId": "12",
+                                        "publicId": "998",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "candle_2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365964934202:79899",
+                                        "fileId": "13",
+                                        "originalId": "14",
+                                        "publicId": "999",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ele",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365964951945:79915",
+                                        "fileId": "15",
+                                        "originalId": "16",
+                                        "publicId": "1000",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "sprinkle",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365964970279:79935",
+                                        "fileId": "17",
+                                        "originalId": "18",
+                                        "publicId": "1001",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cream",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "18",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365964991421:79951",
+                                        "fileId": "19",
+                                        "originalId": "20",
+                                        "publicId": "1002",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cake",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "19",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965013090:79971",
+                                        "fileId": "21",
+                                        "originalId": "22",
+                                        "publicId": "1003",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "wrapper",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965038144:79991",
+                                        "fileId": "23",
+                                        "originalId": "24",
+                                        "publicId": "1004",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "sprinkle_1",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "29",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965536385:80149",
+                                        "fileId": "43",
+                                        "originalId": "44",
+                                        "publicId": "1014",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "sprinkle_2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965559851:80169",
+                                        "fileId": "45",
+                                        "originalId": "46",
+                                        "publicId": "1015",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1005",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "candle_body",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965046291:80003",
+                                        "fileId": "25",
+                                        "originalId": "26",
+                                        "publicId": "1006",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "candle_swirl",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965070213:80022",
+                                        "fileId": "27",
+                                        "originalId": "28",
+                                        "publicId": "1007",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cream",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965092799:80037",
+                                        "fileId": "29",
+                                        "originalId": "30",
+                                        "publicId": "1008",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cake",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "24",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965123078:80056",
+                                        "fileId": "31",
+                                        "originalId": "32",
+                                        "publicId": "1009",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "wrapper",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "25",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965148205:80075",
+                                        "fileId": "33",
+                                        "originalId": "34",
+                                        "publicId": "1010",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ele",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "28",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965454352:80126",
+                                        "fileId": "41",
+                                        "originalId": "42",
+                                        "publicId": "1013",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "sprinkle_1",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "31",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965570710:80181",
+                                        "fileId": "47",
+                                        "originalId": "48",
+                                        "publicId": "1016",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "sprinkle_2",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "32",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965610343:80200",
+                                        "fileId": "49",
+                                        "originalId": "50",
+                                        "publicId": "1017",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "sprinkle_3",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "33",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965648516:80219",
+                                        "fileId": "51",
+                                        "originalId": "52",
+                                        "publicId": "1018",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Particles",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "hidden": "false",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1021",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "particles_texture",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965944705:80270",
+                                        "fileId": "59",
+                                        "originalId": "60",
+                                        "publicId": "1022",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                        "additional": {
+                                            "originHash": "633e6164fd04c2de5d7f0ed88b3dd76d"
+                                        }
+                                    },
+                                    {
+                                        "name": "particles_emitter_material",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "37",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365965958265:80282",
+                                        "fileId": "62",
+                                        "originalId": "63",
+                                        "publicId": "1023",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "particles_mesh",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "38",
+                                        "dependency": "0",
+                                        "hidden": "false",
+                                        "uid": "1628365966024722:80309",
+                                        "fileId": "64",
+                                        "originalId": "65",
+                                        "publicId": "1024",
+                                        "source": "\/private\/var\/folders\/t7\/wf9xvhgx0m5567v6p9d_lhhw0000gn\/T\/com.snap.LensStudio\/Lens Studio-zqEHBe\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cupcake__PLACE_IN_OBJECTS_PANEL",
+                        "type": "12",
+                        "subtype": "-1",
+                        "resourceId": "12",
+                        "dependency": "0",
+                        "hidden": "false",
+                        "uid": "1628365964757529:79630",
+                        "fileId": "8",
+                        "originalId": "68",
+                        "publicId": "1025",
+                        "source": "",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1628365988450316:84354"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": "",
+            "29": "",
+            "30": "",
+            "31": "",
+            "32": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1628365988450316:84354",
+                        "v": {
+                            "prefab": "1628365964757529:79630",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1628365966030560:80370",
+                                    "v": "1628365988450316:84354"
+                                },
+                                {
+                                    "k": "1628365966030576:80372",
+                                    "v": "1628365988451571:84402"
+                                },
+                                {
+                                    "k": "1628365966030579:80374",
+                                    "v": "1628365988452377:84410"
+                                },
+                                {
+                                    "k": "1628365966030608:80376",
+                                    "v": "1628365988453026:84422"
+                                },
+                                {
+                                    "k": "1628365966030620:80378",
+                                    "v": "1628365988453716:84428"
+                                },
+                                {
+                                    "k": "1628365966030622:80380",
+                                    "v": "1628365988455119:84442"
+                                },
+                                {
+                                    "k": "1628365966030630:80382",
+                                    "v": "1628365988455928:84457"
+                                },
+                                {
+                                    "k": "1628365966030632:80384",
+                                    "v": "1628365988457462:84471"
+                                },
+                                {
+                                    "k": "1628365966030638:80386",
+                                    "v": "1628365988458455:84486"
+                                },
+                                {
+                                    "k": "1628365966030640:80388",
+                                    "v": "1628365988460033:84500"
+                                },
+                                {
+                                    "k": "1628365966030647:80390",
+                                    "v": "1628365988460587:84512"
+                                },
+                                {
+                                    "k": "1628365966030654:80392",
+                                    "v": "1628365988461084:84515"
+                                },
+                                {
+                                    "k": "1628365966030661:80394",
+                                    "v": "1628365988461810:84521"
+                                },
+                                {
+                                    "k": "1628365966030663:80396",
+                                    "v": "1628365988463117:84535"
+                                },
+                                {
+                                    "k": "1628365966030670:80398",
+                                    "v": "1628365988463858:84550"
+                                },
+                                {
+                                    "k": "1628365966030672:80400",
+                                    "v": "1628365988465360:84564"
+                                },
+                                {
+                                    "k": "1628365966030679:80402",
+                                    "v": "1628365988466117:84579"
+                                },
+                                {
+                                    "k": "1628365966030681:80404",
+                                    "v": "1628365988467407:84593"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": ""
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1628365965176539:80094",
+                    "v": {
+                        "infos": {
+                            "originalSize": "5702",
+                            "compressedSize": "4397",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "524288",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "37",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "433a4d28382f88e3734bc73a33ab9111",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "71"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1628365965300179:80110",
+                    "v": {
+                        "infos": {
+                            "originalSize": "301619",
+                            "compressedSize": "301619",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "4194304",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "40",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "9652a0931a93fb1ba10618369069bb87",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "66"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1628365965682863:80238",
+                    "v": {
+                        "infos": {
+                            "originalSize": "98743",
+                            "compressedSize": "98743",
+                            "originalRAM": "4194304",
+                            "compressedRAM": "4194304",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "55",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "2602d939208612294df6e20d26f9d080",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "67"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1628365965840591:80254",
+                    "v": {
+                        "infos": {
+                            "originalSize": "104664",
+                            "compressedSize": "104664",
+                            "originalRAM": "16000000",
+                            "compressedRAM": "16000000",
+                            "extension": "jpg",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "3",
+                                "type": "0"
+                            }
+                        },
+                        "uncompressed_file": "58",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "eba8a7ae22868d293f37b44f5ffea4e7",
+                                    "settings_hash": "3072"
+                                },
+                                "v": "70"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1628365965944705:80270",
+                    "v": {
+                        "infos": {
+                            "originalSize": "7261",
+                            "compressedSize": "4036",
+                            "originalRAM": "65536",
+                            "compressedRAM": "8192",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "61",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "633e6164fd04c2de5d7f0ed88b3dd76d",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "69"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "AssetLibController": {
+            "itemUidToID": [
+                {
+                    "k": "1628365964757529:79630",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365964890003:79859",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365964917443:79879",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365964934202:79899",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365964951945:79915",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365964970279:79935",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365964991421:79951",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965013090:79971",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965038144:79991",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965046291:80003",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965070213:80022",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965092799:80037",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965123078:80056",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965148205:80075",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965176539:80094",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965300179:80110",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965454352:80126",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965536385:80149",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965559851:80169",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965570710:80181",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965610343:80200",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965648516:80219",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965682863:80238",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965840591:80254",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965944705:80270",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365965958265:80282",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                },
+                {
+                    "k": "1628365966024722:80309",
+                    "v": "6JLn2ztECnOQXEyfkNAFnl"
+                }
+            ]
+        }
+    }
+}
